@@ -2,7 +2,7 @@
 
 ## Authors
 
-Lauren M. Fletchera,\*, Grant A. Hopkinsa,\*, Matthew R. Millera, Natalí J. Delormea, Rebecca M. McMullina, Lizenn Delislea,b and Javier Atalaha  
+Lauren M. Fletcher<sup>a,\*</sup>, Grant A. Hopkins<sup>a,\*</sup>, Matthew R. Miller<sup>a</sup>, Natalí J. Delorme<sup>a</sup>, Rebecca M. McMullin<sup>a</sup>, Lizenn Delisle<sup>a,b</sup> and Javier Atalah<sup>a</sup>
 
 a Cawthron Institute, Private Bag 2, Nelson 7042, New Zealand  
 b Sorbonne Université, CNRS, UMR7144 AD2M, ECOPHY, Station Biologique de Roscoff, 29680 Roscoff, France  
