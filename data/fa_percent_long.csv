@@ -1,0 +1,2233 @@
+name,Unique ID,value,Deployment time (days),label,Season,Round,Age,Location
+C12:0 lauric acid,1,1,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C12:0 lauric acid,2,0.44,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C12:0 lauric acid,3,1.1,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C12:0 lauric acid,4,0.65,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C12:0 lauric acid,5,0.61,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C12:0 lauric acid,6,0.75,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C12:0 lauric acid,7,0.29,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C12:0 lauric acid,9,0.34,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C12:0 lauric acid,11,0.34,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C12:0 lauric acid,13,0.4,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C12:0 lauric acid,16,0.51,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C12:0 lauric acid,18,0.36,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C12:0 lauric acid,20,0.37,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C12:0 lauric acid,23,0.39,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C12:0 lauric acid,26,0.48,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C12:0 lauric acid,29,0.59,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C12:0 lauric acid,34,0.43,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C12:0 lauric acid,38,1.2,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C12:0 lauric acid,43,0.82,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C12:0 lauric acid,44,0.66,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C12:0 lauric acid,45,0.84,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C12:0 lauric acid,46,0.78,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C12:0 lauric acid,47,0.75,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C12:0 lauric acid,48,0.63,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C12:0 lauric acid,49,0.62,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C12:0 lauric acid,50,0.74,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C12:0 lauric acid,51,0.44,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C12:0 lauric acid,52,0.54,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C12:0 lauric acid,53,0.52,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C12:0 lauric acid,54,0.77,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C12:0 lauric acid,55,0.46,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C12:0 lauric acid,58,1.3,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C12:0 lauric acid,61,0.62,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C12:0 lauric acid,64,0.73,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C12:0 lauric acid,68,0.27,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C12:0 lauric acid,72,1.2,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C12:0 lauric acid,79,1.9,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C12:0 lauric acid,80,2.4,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C12:0 lauric acid,81,2.4,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C12:0 lauric acid,82,2.1,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C12:0 lauric acid,83,2.3,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C12:0 lauric acid,84,3.3,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C12:0 lauric acid,85,1.4,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C12:0 lauric acid,86,0.53,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C12:0 lauric acid,87,0.63,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C12:0 lauric acid,88,0.88,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C12:0 lauric acid,89,0.81,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C12:0 lauric acid,90,0.98,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C12:0 lauric acid,91,0.66,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C12:0 lauric acid,92,0.46,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C12:0 lauric acid,93,0.65,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C12:0 lauric acid,94,0.51,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C12:0 lauric acid,95,0.78,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C12:0 lauric acid,96,0.42,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C12:0 lauric acid,97,1,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C12:0 lauric acid,98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C12:0 lauric acid,99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C12:0 lauric acid,100,1.3,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C12:0 lauric acid,101,1.4,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C12:0 lauric acid,102,1.5,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C12:0 lauric acid,103,0.54,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C12:0 lauric acid,104,0.43,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C12:0 lauric acid,105,0.62,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C12:0 lauric acid,106,0.36,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C12:0 lauric acid,107,0.73,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C12:0 lauric acid,108,0.61,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C12:0 lauric acid,109,0.31,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C12:0 lauric acid,110,0.2,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C12:0 lauric acid,111,0.36,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C12:0 lauric acid,112,0.34,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C12:0 lauric acid,113,0.45,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C12:0 lauric acid,114,0.37,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C14:0 myristic acid,1,13.3,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C14:0 myristic acid,2,14,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C14:0 myristic acid,3,10.1,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C14:0 myristic acid,4,15.2,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C14:0 myristic acid,5,11,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C14:0 myristic acid,6,14.1,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C14:0 myristic acid,7,9.3,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C14:0 myristic acid,9,8.8,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C14:0 myristic acid,11,9.4,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C14:0 myristic acid,13,8,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C14:0 myristic acid,16,9.1,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C14:0 myristic acid,18,8.9,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C14:0 myristic acid,20,6.9,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C14:0 myristic acid,23,7.8,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C14:0 myristic acid,26,7.4,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C14:0 myristic acid,29,6.8,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C14:0 myristic acid,34,6.7,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C14:0 myristic acid,38,7.1,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C14:0 myristic acid,43,14.5,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C14:0 myristic acid,44,15.1,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C14:0 myristic acid,45,14.2,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C14:0 myristic acid,46,14.3,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C14:0 myristic acid,47,16.5,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C14:0 myristic acid,48,13.9,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C14:0 myristic acid,49,8.1,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C14:0 myristic acid,50,8.7,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C14:0 myristic acid,51,7.2,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C14:0 myristic acid,52,8.4,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C14:0 myristic acid,53,8.6,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C14:0 myristic acid,54,8.6,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C14:0 myristic acid,55,6.2,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C14:0 myristic acid,58,5,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C14:0 myristic acid,61,5.7,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C14:0 myristic acid,64,6.2,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C14:0 myristic acid,68,5.7,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C14:0 myristic acid,72,8,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C14:0 myristic acid,79,14.6,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C14:0 myristic acid,80,13.6,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C14:0 myristic acid,81,13.1,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C14:0 myristic acid,82,11.2,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C14:0 myristic acid,83,13,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C14:0 myristic acid,84,12.3,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C14:0 myristic acid,85,13.4,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C14:0 myristic acid,86,13.3,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C14:0 myristic acid,87,13.3,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C14:0 myristic acid,88,15.2,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C14:0 myristic acid,89,14,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C14:0 myristic acid,90,15.8,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C14:0 myristic acid,91,14.1,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C14:0 myristic acid,92,11.4,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C14:0 myristic acid,93,13.6,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C14:0 myristic acid,94,11.4,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C14:0 myristic acid,95,15.8,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C14:0 myristic acid,96,13.9,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C14:0 myristic acid,97,11.7,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C14:0 myristic acid,98,13.1,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C14:0 myristic acid,99,14.8,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C14:0 myristic acid,100,15.9,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C14:0 myristic acid,101,16,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C14:0 myristic acid,102,14.8,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C14:0 myristic acid,103,17.7,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C14:0 myristic acid,104,18.6,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C14:0 myristic acid,105,16.7,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C14:0 myristic acid,106,18.7,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C14:0 myristic acid,107,18.8,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C14:0 myristic acid,108,17.3,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C14:0 myristic acid,109,9.4,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C14:0 myristic acid,110,8.3,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C14:0 myristic acid,111,8.8,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C14:0 myristic acid,112,10.1,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C14:0 myristic acid,113,12.4,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C14:0 myristic acid,114,10.9,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C15:0 pentadecanoic acid,1,0.54,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C15:0 pentadecanoic acid,2,0.65,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C15:0 pentadecanoic acid,3,0.42,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C15:0 pentadecanoic acid,4,0.74,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C15:0 pentadecanoic acid,5,0.55,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C15:0 pentadecanoic acid,6,0.6,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C15:0 pentadecanoic acid,7,0.97,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C15:0 pentadecanoic acid,9,0.67,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C15:0 pentadecanoic acid,11,0.74,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C15:0 pentadecanoic acid,13,0.59,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C15:0 pentadecanoic acid,16,0.53,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C15:0 pentadecanoic acid,18,0.75,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C15:0 pentadecanoic acid,20,0.93,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C15:0 pentadecanoic acid,23,1.1,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C15:0 pentadecanoic acid,26,0.85,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C15:0 pentadecanoic acid,29,1.1,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C15:0 pentadecanoic acid,34,1.2,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C15:0 pentadecanoic acid,38,0.68,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C15:0 pentadecanoic acid,43,0.58,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C15:0 pentadecanoic acid,44,0.66,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C15:0 pentadecanoic acid,45,0.65,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C15:0 pentadecanoic acid,46,0.65,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C15:0 pentadecanoic acid,47,0.68,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C15:0 pentadecanoic acid,48,0.61,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C15:0 pentadecanoic acid,49,0.64,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C15:0 pentadecanoic acid,50,0.67,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C15:0 pentadecanoic acid,51,0.58,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C15:0 pentadecanoic acid,52,0.91,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C15:0 pentadecanoic acid,53,1.1,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C15:0 pentadecanoic acid,54,0.64,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C15:0 pentadecanoic acid,55,1.2,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C15:0 pentadecanoic acid,58,0.55,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C15:0 pentadecanoic acid,61,1.3,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C15:0 pentadecanoic acid,64,1.1,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C15:0 pentadecanoic acid,68,1.7,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C15:0 pentadecanoic acid,72,0.8,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C15:0 pentadecanoic acid,79,0.75,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C15:0 pentadecanoic acid,80,0.84,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C15:0 pentadecanoic acid,81,0.71,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C15:0 pentadecanoic acid,82,0.87,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C15:0 pentadecanoic acid,83,1.1,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C15:0 pentadecanoic acid,84,1.5,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C15:0 pentadecanoic acid,85,0.49,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C15:0 pentadecanoic acid,86,0.52,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C15:0 pentadecanoic acid,87,0.43,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C15:0 pentadecanoic acid,88,0.53,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C15:0 pentadecanoic acid,89,0.55,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C15:0 pentadecanoic acid,90,0.57,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C15:0 pentadecanoic acid,91,0.59,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C15:0 pentadecanoic acid,92,0.53,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C15:0 pentadecanoic acid,93,0.6,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C15:0 pentadecanoic acid,94,0.49,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C15:0 pentadecanoic acid,95,0.77,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C15:0 pentadecanoic acid,96,0.54,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C15:0 pentadecanoic acid,97,1.2,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C15:0 pentadecanoic acid,98,0.98,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C15:0 pentadecanoic acid,99,1.4,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C15:0 pentadecanoic acid,100,0.92,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C15:0 pentadecanoic acid,101,0.81,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C15:0 pentadecanoic acid,102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C15:0 pentadecanoic acid,103,0.62,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C15:0 pentadecanoic acid,104,0.56,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C15:0 pentadecanoic acid,105,0.52,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C15:0 pentadecanoic acid,106,0.75,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C15:0 pentadecanoic acid,107,0.62,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C15:0 pentadecanoic acid,108,0.67,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C15:0 pentadecanoic acid,109,0.51,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C15:0 pentadecanoic acid,110,0.45,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C15:0 pentadecanoic acid,111,0.57,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C15:0 pentadecanoic acid,112,0.55,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C15:0 pentadecanoic acid,113,0.64,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C15:0 pentadecanoic acid,114,0.59,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C16:0 palmitic acid,1,34.1,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C16:0 palmitic acid,2,33.2,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C16:0 palmitic acid,3,23.3,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C16:0 palmitic acid,4,34.1,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C16:0 palmitic acid,5,29.4,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C16:0 palmitic acid,6,28.6,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C16:0 palmitic acid,7,23.2,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C16:0 palmitic acid,9,28.1,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C16:0 palmitic acid,11,29.7,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C16:0 palmitic acid,13,26.2,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C16:0 palmitic acid,16,26.6,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C16:0 palmitic acid,18,27.2,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C16:0 palmitic acid,20,18.9,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C16:0 palmitic acid,23,18.3,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C16:0 palmitic acid,26,21.3,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C16:0 palmitic acid,29,17.8,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C16:0 palmitic acid,34,15.5,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C16:0 palmitic acid,38,21.2,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C16:0 palmitic acid,43,28.2,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C16:0 palmitic acid,44,34.3,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C16:0 palmitic acid,45,31.5,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C16:0 palmitic acid,46,32.5,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C16:0 palmitic acid,47,34.7,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C16:0 palmitic acid,48,33.9,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C16:0 palmitic acid,49,24.7,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C16:0 palmitic acid,50,29.7,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C16:0 palmitic acid,51,22.7,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C16:0 palmitic acid,52,22.1,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C16:0 palmitic acid,53,23.4,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C16:0 palmitic acid,54,24.1,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C16:0 palmitic acid,55,16.9,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C16:0 palmitic acid,58,25.3,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C16:0 palmitic acid,61,16.5,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C16:0 palmitic acid,64,18.2,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C16:0 palmitic acid,68,14.9,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C16:0 palmitic acid,72,24.5,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C16:0 palmitic acid,79,30,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C16:0 palmitic acid,80,26.8,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C16:0 palmitic acid,81,27.6,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C16:0 palmitic acid,82,28.2,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C16:0 palmitic acid,83,33,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C16:0 palmitic acid,84,30.8,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C16:0 palmitic acid,85,27.7,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C16:0 palmitic acid,86,28.9,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C16:0 palmitic acid,87,27,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C16:0 palmitic acid,88,25.8,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C16:0 palmitic acid,89,27.8,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C16:0 palmitic acid,90,25.3,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C16:0 palmitic acid,91,23.5,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C16:0 palmitic acid,92,29.9,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C16:0 palmitic acid,93,30.3,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C16:0 palmitic acid,94,29.6,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C16:0 palmitic acid,95,31,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C16:0 palmitic acid,96,30.9,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C16:0 palmitic acid,97,29.9,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C16:0 palmitic acid,98,27.2,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C16:0 palmitic acid,99,25.8,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C16:0 palmitic acid,100,22.6,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C16:0 palmitic acid,101,23.6,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C16:0 palmitic acid,102,26.1,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C16:0 palmitic acid,103,28.3,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C16:0 palmitic acid,104,28,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C16:0 palmitic acid,105,23.7,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C16:0 palmitic acid,106,31.1,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C16:0 palmitic acid,107,24.7,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C16:0 palmitic acid,108,27.1,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C16:0 palmitic acid,109,34.4,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C16:0 palmitic acid,110,33.4,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C16:0 palmitic acid,111,36.2,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C16:0 palmitic acid,112,36.2,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C16:0 palmitic acid,113,38.1,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C16:0 palmitic acid,114,37,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C16:1 palmitoleic acid,1,12.5,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C16:1 palmitoleic acid,2,16.2,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C16:1 palmitoleic acid,3,7.7,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C16:1 palmitoleic acid,4,16.1,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C16:1 palmitoleic acid,5,12.4,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C16:1 palmitoleic acid,6,12.3,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C16:1 palmitoleic acid,7,8.2,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C16:1 palmitoleic acid,9,10.6,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C16:1 palmitoleic acid,11,10.4,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C16:1 palmitoleic acid,13,10,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C16:1 palmitoleic acid,16,8.3,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C16:1 palmitoleic acid,18,10.3,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C16:1 palmitoleic acid,20,5.5,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C16:1 palmitoleic acid,23,5.6,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C16:1 palmitoleic acid,26,5.5,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C16:1 palmitoleic acid,29,5.5,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C16:1 palmitoleic acid,34,6.4,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C16:1 palmitoleic acid,38,5.1,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C16:1 palmitoleic acid,43,14.6,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C16:1 palmitoleic acid,44,19.8,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C16:1 palmitoleic acid,45,18.2,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C16:1 palmitoleic acid,46,14.7,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C16:1 palmitoleic acid,47,15.8,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C16:1 palmitoleic acid,48,17.5,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C16:1 palmitoleic acid,49,9.4,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C16:1 palmitoleic acid,50,8.7,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C16:1 palmitoleic acid,51,8,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C16:1 palmitoleic acid,52,8.9,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C16:1 palmitoleic acid,53,8.8,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C16:1 palmitoleic acid,54,10.9,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C16:1 palmitoleic acid,55,4.5,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C16:1 palmitoleic acid,58,2.8,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C16:1 palmitoleic acid,61,3.6,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C16:1 palmitoleic acid,64,4,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C16:1 palmitoleic acid,68,3.4,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C16:1 palmitoleic acid,72,3.4,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C16:1 palmitoleic acid,79,19.8,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C16:1 palmitoleic acid,80,16.1,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C16:1 palmitoleic acid,81,15.3,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C16:1 palmitoleic acid,82,16,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C16:1 palmitoleic acid,83,17.2,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C16:1 palmitoleic acid,84,16.2,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C16:1 palmitoleic acid,85,28.1,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C16:1 palmitoleic acid,86,29.6,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C16:1 palmitoleic acid,87,29.1,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C16:1 palmitoleic acid,88,25,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C16:1 palmitoleic acid,89,27.5,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C16:1 palmitoleic acid,90,23.9,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C16:1 palmitoleic acid,91,25.1,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C16:1 palmitoleic acid,92,27.2,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C16:1 palmitoleic acid,93,29.4,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C16:1 palmitoleic acid,94,30.6,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C16:1 palmitoleic acid,95,31.7,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C16:1 palmitoleic acid,96,33.3,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C16:1 palmitoleic acid,97,19.6,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C16:1 palmitoleic acid,98,22.5,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C16:1 palmitoleic acid,99,13,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C16:1 palmitoleic acid,100,15.5,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C16:1 palmitoleic acid,101,18.3,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C16:1 palmitoleic acid,102,14.2,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C16:1 palmitoleic acid,103,28.9,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C16:1 palmitoleic acid,104,29.2,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C16:1 palmitoleic acid,105,26.2,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C16:1 palmitoleic acid,106,30.5,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C16:1 palmitoleic acid,107,26.8,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C16:1 palmitoleic acid,108,26.7,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C16:1 palmitoleic acid,109,26.3,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C16:1 palmitoleic acid,110,28.8,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C16:1 palmitoleic acid,111,22.5,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C16:1 palmitoleic acid,112,22.7,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C16:1 palmitoleic acid,113,22.9,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C16:1 palmitoleic acid,114,23.4,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C16:2n4 hexadecadienoic acid,1,0.79,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C16:2n4 hexadecadienoic acid,2,0.85,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C16:2n4 hexadecadienoic acid,3,0.89,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C16:2n4 hexadecadienoic acid,4,1,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C16:2n4 hexadecadienoic acid,5,0.97,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C16:2n4 hexadecadienoic acid,6,1.1,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C16:2n4 hexadecadienoic acid,7,0.6,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C16:2n4 hexadecadienoic acid,9,0.69,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C16:2n4 hexadecadienoic acid,11,0.62,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C16:2n4 hexadecadienoic acid,13,0.78,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C16:2n4 hexadecadienoic acid,16,0.61,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C16:2n4 hexadecadienoic acid,18,0.66,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C16:2n4 hexadecadienoic acid,20,0.5,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C16:2n4 hexadecadienoic acid,23,0.52,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C16:2n4 hexadecadienoic acid,26,0.43,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C16:2n4 hexadecadienoic acid,29,0.4,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C16:2n4 hexadecadienoic acid,34,0.53,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C16:2n4 hexadecadienoic acid,38,0.35,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C16:2n4 hexadecadienoic acid,43,1,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C16:2n4 hexadecadienoic acid,44,0.94,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C16:2n4 hexadecadienoic acid,45,1.1,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C16:2n4 hexadecadienoic acid,46,0.82,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C16:2n4 hexadecadienoic acid,47,0.73,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C16:2n4 hexadecadienoic acid,48,0.87,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C16:2n4 hexadecadienoic acid,49,0.58,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C16:2n4 hexadecadienoic acid,50,0.58,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C16:2n4 hexadecadienoic acid,51,0.47,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C16:2n4 hexadecadienoic acid,52,0.69,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C16:2n4 hexadecadienoic acid,53,0.61,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C16:2n4 hexadecadienoic acid,54,0.84,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C16:2n4 hexadecadienoic acid,55,0.4,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C16:2n4 hexadecadienoic acid,58,0.23,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C16:2n4 hexadecadienoic acid,61,0.32,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C16:2n4 hexadecadienoic acid,64,0.3,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C16:2n4 hexadecadienoic acid,68,0.26,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C16:2n4 hexadecadienoic acid,72,0.29,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C16:2n4 hexadecadienoic acid,79,2.1,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C16:2n4 hexadecadienoic acid,80,3.3,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C16:2n4 hexadecadienoic acid,81,2.7,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C16:2n4 hexadecadienoic acid,82,2.7,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C16:2n4 hexadecadienoic acid,83,2.3,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C16:2n4 hexadecadienoic acid,84,3,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C16:2n4 hexadecadienoic acid,85,1.6,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C16:2n4 hexadecadienoic acid,86,1.3,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C16:2n4 hexadecadienoic acid,87,1.5,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C16:2n4 hexadecadienoic acid,88,1.7,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C16:2n4 hexadecadienoic acid,89,1.7,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C16:2n4 hexadecadienoic acid,90,1.7,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C16:2n4 hexadecadienoic acid,91,1.2,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C16:2n4 hexadecadienoic acid,92,0.66,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C16:2n4 hexadecadienoic acid,93,0.73,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C16:2n4 hexadecadienoic acid,94,0.79,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C16:2n4 hexadecadienoic acid,95,0.87,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C16:2n4 hexadecadienoic acid,96,0.81,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C16:2n4 hexadecadienoic acid,97,1.7,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C16:2n4 hexadecadienoic acid,98,1.8,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C16:2n4 hexadecadienoic acid,99,2.6,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C16:2n4 hexadecadienoic acid,100,2.1,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C16:2n4 hexadecadienoic acid,101,1.9,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C16:2n4 hexadecadienoic acid,102,2.6,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C16:2n4 hexadecadienoic acid,103,1.2,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C16:2n4 hexadecadienoic acid,104,1.2,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C16:2n4 hexadecadienoic acid,105,1.5,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C16:2n4 hexadecadienoic acid,106,1,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C16:2n4 hexadecadienoic acid,107,1.7,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C16:2n4 hexadecadienoic acid,108,1.7,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C16:2n4 hexadecadienoic acid,109,0.81,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C16:2n4 hexadecadienoic acid,110,0.65,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C16:2n4 hexadecadienoic acid,111,0.68,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C16:2n4 hexadecadienoic acid,112,0.74,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C16:2n4 hexadecadienoic acid,113,0.83,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C16:2n4 hexadecadienoic acid,114,0.83,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C17:0 heptadecanoic acid,1,0.25,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C17:0 heptadecanoic acid,2,0.37,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C17:0 heptadecanoic acid,3,0.7,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C17:0 heptadecanoic acid,4,0.35,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C17:0 heptadecanoic acid,5,0.58,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C17:0 heptadecanoic acid,6,0.48,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C17:0 heptadecanoic acid,7,1.3,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C17:0 heptadecanoic acid,9,0.94,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C17:0 heptadecanoic acid,11,0.97,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C17:0 heptadecanoic acid,13,1.1,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C17:0 heptadecanoic acid,16,0.78,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C17:0 heptadecanoic acid,18,1.2,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C17:0 heptadecanoic acid,20,1.7,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C17:0 heptadecanoic acid,23,1.8,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C17:0 heptadecanoic acid,26,1.3,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C17:0 heptadecanoic acid,29,1.7,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C17:0 heptadecanoic acid,34,1.6,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C17:0 heptadecanoic acid,38,1.3,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C17:0 heptadecanoic acid,43,0.35,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C17:0 heptadecanoic acid,44,0.24,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C17:0 heptadecanoic acid,45,0.29,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C17:0 heptadecanoic acid,46,0.34,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C17:0 heptadecanoic acid,47,0.27,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C17:0 heptadecanoic acid,48,0.26,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C17:0 heptadecanoic acid,49,1.1,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C17:0 heptadecanoic acid,50,0.86,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C17:0 heptadecanoic acid,51,1,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C17:0 heptadecanoic acid,52,1.3,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C17:0 heptadecanoic acid,53,1.2,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C17:0 heptadecanoic acid,54,0.97,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C17:0 heptadecanoic acid,55,1.9,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C17:0 heptadecanoic acid,58,0.91,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C17:0 heptadecanoic acid,61,2,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C17:0 heptadecanoic acid,64,1.3,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C17:0 heptadecanoic acid,68,1.7,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C17:0 heptadecanoic acid,72,0.75,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C17:0 heptadecanoic acid,79,0.3,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C17:0 heptadecanoic acid,80,0.53,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C17:0 heptadecanoic acid,81,0.32,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C17:0 heptadecanoic acid,82,0.62,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C17:0 heptadecanoic acid,83,0.74,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C17:0 heptadecanoic acid,84,1.1,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C17:0 heptadecanoic acid,85,0,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C17:0 heptadecanoic acid,86,0.17,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C17:0 heptadecanoic acid,87,0.15,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C17:0 heptadecanoic acid,88,0.19,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C17:0 heptadecanoic acid,89,0.14,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C17:0 heptadecanoic acid,90,0.14,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C17:0 heptadecanoic acid,91,0.33,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C17:0 heptadecanoic acid,92,0.28,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C17:0 heptadecanoic acid,93,0.21,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C17:0 heptadecanoic acid,94,0.22,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C17:0 heptadecanoic acid,95,0.21,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C17:0 heptadecanoic acid,96,0.12,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C17:0 heptadecanoic acid,97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C17:0 heptadecanoic acid,98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C17:0 heptadecanoic acid,99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C17:0 heptadecanoic acid,100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C17:0 heptadecanoic acid,101,0.2,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C17:0 heptadecanoic acid,102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C17:0 heptadecanoic acid,103,0,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C17:0 heptadecanoic acid,104,0,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C17:0 heptadecanoic acid,105,0.11,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C17:0 heptadecanoic acid,106,0,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C17:0 heptadecanoic acid,107,0,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C17:0 heptadecanoic acid,108,0,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C17:0 heptadecanoic acid,109,0.16,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C17:0 heptadecanoic acid,110,0.17,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C17:0 heptadecanoic acid,111,0.2,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C17:0 heptadecanoic acid,112,0.16,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C17:0 heptadecanoic acid,113,0.16,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C17:0 heptadecanoic acid,114,0.12,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C18:0 stearic acid,1,1.5,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C18:0 stearic acid,2,1.5,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C18:0 stearic acid,3,1.1,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C18:0 stearic acid,4,1.7,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C18:0 stearic acid,5,1.7,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C18:0 stearic acid,6,1.2,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C18:0 stearic acid,7,4.4,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C18:0 stearic acid,9,4.4,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C18:0 stearic acid,11,4,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C18:0 stearic acid,13,4.7,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C18:0 stearic acid,16,2.6,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C18:0 stearic acid,18,6.1,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C18:0 stearic acid,20,6.3,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C18:0 stearic acid,23,6,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C18:0 stearic acid,26,5.1,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C18:0 stearic acid,29,6.1,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C18:0 stearic acid,34,6.1,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C18:0 stearic acid,38,4.8,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C18:0 stearic acid,43,2.4,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C18:0 stearic acid,44,1.8,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C18:0 stearic acid,45,1.9,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C18:0 stearic acid,46,1.6,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C18:0 stearic acid,47,1.4,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C18:0 stearic acid,48,1.4,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C18:0 stearic acid,49,5.1,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C18:0 stearic acid,50,4.7,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C18:0 stearic acid,51,7.2,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C18:0 stearic acid,52,7.1,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C18:0 stearic acid,53,7.2,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C18:0 stearic acid,54,6.2,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C18:0 stearic acid,55,5.7,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C18:0 stearic acid,58,3.3,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C18:0 stearic acid,61,5.7,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C18:0 stearic acid,64,4.3,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C18:0 stearic acid,68,5.6,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C18:0 stearic acid,72,2.1,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C18:0 stearic acid,79,1.6,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C18:0 stearic acid,80,2.2,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C18:0 stearic acid,81,1.7,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C18:0 stearic acid,82,3.8,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C18:0 stearic acid,83,3.6,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C18:0 stearic acid,84,5,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C18:0 stearic acid,85,1.1,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C18:0 stearic acid,86,1.3,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C18:0 stearic acid,87,1.1,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C18:0 stearic acid,88,1.1,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C18:0 stearic acid,89,0.95,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C18:0 stearic acid,90,1,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C18:0 stearic acid,91,1.9,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C18:0 stearic acid,92,1.5,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C18:0 stearic acid,93,1.3,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C18:0 stearic acid,94,1,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C18:0 stearic acid,95,1.3,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C18:0 stearic acid,96,1.1,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C18:0 stearic acid,97,2.6,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C18:0 stearic acid,98,1.8,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C18:0 stearic acid,99,3.2,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C18:0 stearic acid,100,1.8,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C18:0 stearic acid,101,1.3,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C18:0 stearic acid,102,3.2,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C18:0 stearic acid,103,1.2,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C18:0 stearic acid,104,1.1,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C18:0 stearic acid,105,0.85,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C18:0 stearic acid,106,1.2,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C18:0 stearic acid,107,0.82,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C18:0 stearic acid,108,0.88,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C18:0 stearic acid,109,1,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C18:0 stearic acid,110,0.86,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C18:0 stearic acid,111,1.5,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C18:0 stearic acid,112,1,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C18:0 stearic acid,113,1.1,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C18:0 stearic acid,114,1,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C18:1n7 vaccenic acid,1,2.2,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C18:1n7 vaccenic acid,2,1.4,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C18:1n7 vaccenic acid,3,0.99,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C18:1n7 vaccenic acid,4,0.93,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C18:1n7 vaccenic acid,5,1,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C18:1n7 vaccenic acid,6,0.79,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C18:1n7 vaccenic acid,7,3.4,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C18:1n7 vaccenic acid,9,2.2,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C18:1n7 vaccenic acid,11,2.1,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C18:1n7 vaccenic acid,13,1.9,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C18:1n7 vaccenic acid,16,1.2,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C18:1n7 vaccenic acid,18,2.4,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C18:1n7 vaccenic acid,20,3.8,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C18:1n7 vaccenic acid,23,4.2,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C18:1n7 vaccenic acid,26,3.7,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C18:1n7 vaccenic acid,29,4.1,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C18:1n7 vaccenic acid,34,4,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C18:1n7 vaccenic acid,38,2.1,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C18:1n7 vaccenic acid,43,1.5,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C18:1n7 vaccenic acid,44,1.1,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C18:1n7 vaccenic acid,45,1.4,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C18:1n7 vaccenic acid,46,1.3,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C18:1n7 vaccenic acid,47,1.1,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C18:1n7 vaccenic acid,48,1.3,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C18:1n7 vaccenic acid,49,2.5,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C18:1n7 vaccenic acid,50,2.3,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C18:1n7 vaccenic acid,51,3.1,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C18:1n7 vaccenic acid,52,3.4,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C18:1n7 vaccenic acid,53,3.4,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C18:1n7 vaccenic acid,54,2.5,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C18:1n7 vaccenic acid,55,3.5,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C18:1n7 vaccenic acid,58,1.7,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C18:1n7 vaccenic acid,61,3.6,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C18:1n7 vaccenic acid,64,3.3,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C18:1n7 vaccenic acid,68,4.5,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C18:1n7 vaccenic acid,72,1.8,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C18:1n7 vaccenic acid,79,0.93,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C18:1n7 vaccenic acid,80,1.6,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C18:1n7 vaccenic acid,81,1.2,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C18:1n7 vaccenic acid,82,1.8,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C18:1n7 vaccenic acid,83,2,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C18:1n7 vaccenic acid,84,3,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C18:1n7 vaccenic acid,85,1.3,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C18:1n7 vaccenic acid,86,1.5,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C18:1n7 vaccenic acid,87,1.4,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C18:1n7 vaccenic acid,88,0.96,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C18:1n7 vaccenic acid,89,0.95,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C18:1n7 vaccenic acid,90,0.93,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C18:1n7 vaccenic acid,91,2.2,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C18:1n7 vaccenic acid,92,1.5,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C18:1n7 vaccenic acid,93,1.5,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C18:1n7 vaccenic acid,94,1.2,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C18:1n7 vaccenic acid,95,1.2,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C18:1n7 vaccenic acid,96,1,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C18:1n7 vaccenic acid,97,3.2,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C18:1n7 vaccenic acid,98,1.5,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C18:1n7 vaccenic acid,99,2,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C18:1n7 vaccenic acid,100,1.3,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C18:1n7 vaccenic acid,101,1.2,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C18:1n7 vaccenic acid,102,2.1,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C18:1n7 vaccenic acid,103,0.78,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C18:1n7 vaccenic acid,104,1,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C18:1n7 vaccenic acid,105,1.1,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C18:1n7 vaccenic acid,106,0.76,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C18:1n7 vaccenic acid,107,0.82,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C18:1n7 vaccenic acid,108,0.73,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C18:1n7 vaccenic acid,109,1,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C18:1n7 vaccenic acid,110,0.76,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C18:1n7 vaccenic acid,111,1.1,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C18:1n7 vaccenic acid,112,0.89,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C18:1n7 vaccenic acid,113,0.81,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C18:1n7 vaccenic acid,114,0.85,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C18:1n9c oleic acid,1,5.7,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C18:1n9c oleic acid,2,3.9,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C18:1n9c oleic acid,3,6.7,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C18:1n9c oleic acid,4,4.2,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C18:1n9c oleic acid,5,5.7,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C18:1n9c oleic acid,6,5.3,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C18:1n9c oleic acid,7,7.5,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C18:1n9c oleic acid,9,7.4,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C18:1n9c oleic acid,11,8.2,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C18:1n9c oleic acid,13,6.3,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C18:1n9c oleic acid,16,9.1,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C18:1n9c oleic acid,18,5.2,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C18:1n9c oleic acid,20,6.1,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C18:1n9c oleic acid,23,5.9,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C18:1n9c oleic acid,26,6.7,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C18:1n9c oleic acid,29,5.7,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C18:1n9c oleic acid,34,4.7,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C18:1n9c oleic acid,38,7.7,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C18:1n9c oleic acid,43,4.8,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C18:1n9c oleic acid,44,3.3,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C18:1n9c oleic acid,45,3.8,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C18:1n9c oleic acid,46,5,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C18:1n9c oleic acid,47,4.9,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C18:1n9c oleic acid,48,5.1,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C18:1n9c oleic acid,49,5.8,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C18:1n9c oleic acid,50,8.2,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C18:1n9c oleic acid,51,6.2,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C18:1n9c oleic acid,52,4.8,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C18:1n9c oleic acid,53,5,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C18:1n9c oleic acid,54,5.1,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C18:1n9c oleic acid,55,5.4,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C18:1n9c oleic acid,58,9.8,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C18:1n9c oleic acid,61,5.5,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C18:1n9c oleic acid,64,6.7,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C18:1n9c oleic acid,68,5.6,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C18:1n9c oleic acid,72,10.3,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C18:1n9c oleic acid,79,2.8,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C18:1n9c oleic acid,80,4.1,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C18:1n9c oleic acid,81,4.9,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C18:1n9c oleic acid,82,5.2,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C18:1n9c oleic acid,83,4.1,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C18:1n9c oleic acid,84,5,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C18:1n9c oleic acid,85,2.1,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C18:1n9c oleic acid,86,2.3,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C18:1n9c oleic acid,87,2.2,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C18:1n9c oleic acid,88,2.3,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C18:1n9c oleic acid,89,2,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C18:1n9c oleic acid,90,2.2,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C18:1n9c oleic acid,91,2.4,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C18:1n9c oleic acid,92,3.4,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C18:1n9c oleic acid,93,2.6,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C18:1n9c oleic acid,94,3,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C18:1n9c oleic acid,95,1.8,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C18:1n9c oleic acid,96,2.1,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C18:1n9c oleic acid,97,4.6,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C18:1n9c oleic acid,98,3.2,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C18:1n9c oleic acid,99,5.1,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C18:1n9c oleic acid,100,3.3,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C18:1n9c oleic acid,101,3.1,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C18:1n9c oleic acid,102,6,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C18:1n9c oleic acid,103,1.8,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C18:1n9c oleic acid,104,2.2,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C18:1n9c oleic acid,105,2.1,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C18:1n9c oleic acid,106,1.3,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C18:1n9c oleic acid,107,1.7,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C18:1n9c oleic acid,108,1.9,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C18:1n9c oleic acid,109,3.9,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C18:1n9c oleic acid,110,3.9,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C18:1n9c oleic acid,111,5.7,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C18:1n9c oleic acid,112,4.9,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C18:1n9c oleic acid,113,3.9,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C18:1n9c oleic acid,114,3.9,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C18:1t elaidic acid,1,0.11,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C18:1t elaidic acid,2,0.14,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C18:1t elaidic acid,3,0.14,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C18:1t elaidic acid,4,0.14,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C18:1t elaidic acid,5,0.2,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C18:1t elaidic acid,6,0.11,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C18:1t elaidic acid,7,0.16,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C18:1t elaidic acid,9,0.31,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C18:1t elaidic acid,11,0.26,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C18:1t elaidic acid,13,0.64,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C18:1t elaidic acid,16,0.19,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C18:1t elaidic acid,18,0.84,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C18:1t elaidic acid,20,0.57,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C18:1t elaidic acid,23,0.33,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C18:1t elaidic acid,26,0.32,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C18:1t elaidic acid,29,0.38,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C18:1t elaidic acid,34,0.54,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C18:1t elaidic acid,38,0.45,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C18:1t elaidic acid,43,0.18,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C18:1t elaidic acid,44,0.23,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C18:1t elaidic acid,45,0.24,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C18:1t elaidic acid,46,0.28,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C18:1t elaidic acid,47,0.36,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C18:1t elaidic acid,48,0.2,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C18:1t elaidic acid,49,0.19,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C18:1t elaidic acid,50,0.15,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C18:1t elaidic acid,51,0.2,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C18:1t elaidic acid,52,0.19,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C18:1t elaidic acid,53,0.2,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C18:1t elaidic acid,54,0.16,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C18:1t elaidic acid,55,0.22,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C18:1t elaidic acid,58,0.13,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C18:1t elaidic acid,61,0.21,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C18:1t elaidic acid,64,0.12,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C18:1t elaidic acid,68,0.13,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C18:1t elaidic acid,72,0,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C18:1t elaidic acid,79,0.34,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C18:1t elaidic acid,80,0.25,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C18:1t elaidic acid,81,0.24,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C18:1t elaidic acid,82,0.36,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C18:1t elaidic acid,83,0.66,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C18:1t elaidic acid,84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C18:1t elaidic acid,85,0.16,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C18:1t elaidic acid,86,0.18,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C18:1t elaidic acid,87,0.15,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C18:1t elaidic acid,88,0.25,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C18:1t elaidic acid,89,0.2,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C18:1t elaidic acid,90,0.18,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C18:1t elaidic acid,91,0.19,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C18:1t elaidic acid,92,0.17,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C18:1t elaidic acid,93,0.27,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C18:1t elaidic acid,94,0.18,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C18:1t elaidic acid,95,0.34,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C18:1t elaidic acid,96,0.2,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C18:1t elaidic acid,97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C18:1t elaidic acid,98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C18:1t elaidic acid,99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C18:1t elaidic acid,100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C18:1t elaidic acid,101,0.36,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C18:1t elaidic acid,102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C18:1t elaidic acid,103,0.26,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C18:1t elaidic acid,104,0.29,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C18:1t elaidic acid,105,0.23,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C18:1t elaidic acid,106,0.41,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C18:1t elaidic acid,107,0.2,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C18:1t elaidic acid,108,0.24,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C18:1t elaidic acid,109,0.22,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C18:1t elaidic acid,110,0.19,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C18:1t elaidic acid,111,0.3,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C18:1t elaidic acid,112,0.29,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C18:1t elaidic acid,113,0.42,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C18:1t elaidic acid,114,0.3,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C18:2n6c linoleic acid,1,3.1,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C18:2n6c linoleic acid,2,2.6,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C18:2n6c linoleic acid,3,4.5,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C18:2n6c linoleic acid,4,2.6,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C18:2n6c linoleic acid,5,3.5,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C18:2n6c linoleic acid,6,3.2,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C18:2n6c linoleic acid,7,3.3,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C18:2n6c linoleic acid,9,3.3,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C18:2n6c linoleic acid,11,3.5,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C18:2n6c linoleic acid,13,3,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C18:2n6c linoleic acid,16,4.3,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C18:2n6c linoleic acid,18,2.4,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C18:2n6c linoleic acid,20,2.5,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C18:2n6c linoleic acid,23,2.9,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C18:2n6c linoleic acid,26,3.3,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C18:2n6c linoleic acid,29,2.6,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C18:2n6c linoleic acid,34,2.2,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C18:2n6c linoleic acid,38,3.5,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C18:2n6c linoleic acid,43,2.5,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C18:2n6c linoleic acid,44,2,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C18:2n6c linoleic acid,45,2.1,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C18:2n6c linoleic acid,46,2.3,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C18:2n6c linoleic acid,47,1.9,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C18:2n6c linoleic acid,48,2.4,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C18:2n6c linoleic acid,49,3.3,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C18:2n6c linoleic acid,50,3.8,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C18:2n6c linoleic acid,51,2.8,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C18:2n6c linoleic acid,52,2.2,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C18:2n6c linoleic acid,53,2.1,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C18:2n6c linoleic acid,54,2.3,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C18:2n6c linoleic acid,55,2.8,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C18:2n6c linoleic acid,58,5.7,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C18:2n6c linoleic acid,61,2.9,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C18:2n6c linoleic acid,64,3.1,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C18:2n6c linoleic acid,68,2.6,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C18:2n6c linoleic acid,72,3.7,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C18:2n6c linoleic acid,79,3.1,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C18:2n6c linoleic acid,80,3.7,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C18:2n6c linoleic acid,81,4,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C18:2n6c linoleic acid,82,3.6,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C18:2n6c linoleic acid,83,2.4,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C18:2n6c linoleic acid,84,2.8,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C18:2n6c linoleic acid,85,3,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C18:2n6c linoleic acid,86,2.6,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C18:2n6c linoleic acid,87,3.2,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C18:2n6c linoleic acid,88,3.1,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C18:2n6c linoleic acid,89,2.9,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C18:2n6c linoleic acid,90,3.4,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C18:2n6c linoleic acid,91,2.4,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C18:2n6c linoleic acid,92,2,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C18:2n6c linoleic acid,93,1.6,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C18:2n6c linoleic acid,94,2.2,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C18:2n6c linoleic acid,95,1.2,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C18:2n6c linoleic acid,96,1.5,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C18:2n6c linoleic acid,97,2.6,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C18:2n6c linoleic acid,98,2.2,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C18:2n6c linoleic acid,99,3.5,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C18:2n6c linoleic acid,100,3,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C18:2n6c linoleic acid,101,2.4,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C18:2n6c linoleic acid,102,4.2,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C18:2n6c linoleic acid,103,1.8,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C18:2n6c linoleic acid,104,1.6,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C18:2n6c linoleic acid,105,2.6,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C18:2n6c linoleic acid,106,1,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C18:2n6c linoleic acid,107,2.6,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C18:2n6c linoleic acid,108,2.3,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C18:2n6c linoleic acid,109,2.3,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C18:2n6c linoleic acid,110,2.1,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C18:2n6c linoleic acid,111,2.4,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C18:2n6c linoleic acid,112,2.1,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C18:2n6c linoleic acid,113,1.6,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C18:2n6c linoleic acid,114,2,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),1,3.1,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),2,2.5,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),3,5.8,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),4,1.3,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),5,3.7,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),6,2.8,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),7,2.5,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),9,2.8,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),11,3.2,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),13,2.1,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),16,2,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),18,1.6,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),20,1.7,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),23,2,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),26,2.3,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),29,1.3,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),34,1.1,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),38,1.7,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),43,2.5,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),44,1.4,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),45,1.6,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),46,2.3,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),47,1.8,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),48,2,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),49,3.2,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),50,3,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),51,2.6,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),52,1.8,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),53,1.6,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),54,1.7,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),55,2,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),58,5.3,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),61,2.3,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),64,2.2,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),68,1.6,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),72,1.9,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),79,0.72,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),80,0.93,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),81,1.5,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),82,0.77,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),83,0.56,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),85,0.85,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),86,1,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),87,0.92,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),88,0.88,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),89,0.67,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),90,1,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),91,0.72,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),92,1.7,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),93,1.3,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),94,1.6,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),95,0.42,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),96,0.6,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C18:3n3 alpha linolenic acid (ALA),100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),101,0.4,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C18:3n3 alpha linolenic acid (ALA),103,0.56,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),104,0.6,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),105,1.5,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C18:3n3 alpha linolenic acid (ALA),106,0.15,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),107,0.65,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),108,0.67,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C18:3n3 alpha linolenic acid (ALA),109,2.5,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),110,2.2,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),111,2.6,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C18:3n3 alpha linolenic acid (ALA),112,2.4,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),113,1.2,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C18:3n3 alpha linolenic acid (ALA),114,1.9,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C18:3n6 gamma linolenic (GLA),1,0.65,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C18:3n6 gamma linolenic (GLA),2,0.77,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C18:3n6 gamma linolenic (GLA),3,1.2,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C18:3n6 gamma linolenic (GLA),4,0.6,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C18:3n6 gamma linolenic (GLA),5,1,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C18:3n6 gamma linolenic (GLA),6,0.86,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C18:3n6 gamma linolenic (GLA),7,0.9,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C18:3n6 gamma linolenic (GLA),9,1,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C18:3n6 gamma linolenic (GLA),11,0.94,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C18:3n6 gamma linolenic (GLA),13,0.97,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C18:3n6 gamma linolenic (GLA),16,1.3,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C18:3n6 gamma linolenic (GLA),18,0.85,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C18:3n6 gamma linolenic (GLA),20,0.64,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C18:3n6 gamma linolenic (GLA),23,0.6,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C18:3n6 gamma linolenic (GLA),26,0.7,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C18:3n6 gamma linolenic (GLA),29,0.59,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C18:3n6 gamma linolenic (GLA),34,0.54,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C18:3n6 gamma linolenic (GLA),38,0.75,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C18:3n6 gamma linolenic (GLA),43,0.68,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C18:3n6 gamma linolenic (GLA),44,0.45,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C18:3n6 gamma linolenic (GLA),45,0.52,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C18:3n6 gamma linolenic (GLA),46,0.67,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C18:3n6 gamma linolenic (GLA),47,0.51,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C18:3n6 gamma linolenic (GLA),48,0.67,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C18:3n6 gamma linolenic (GLA),49,0.8,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C18:3n6 gamma linolenic (GLA),50,0.69,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C18:3n6 gamma linolenic (GLA),51,0.6,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C18:3n6 gamma linolenic (GLA),52,0.54,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C18:3n6 gamma linolenic (GLA),53,0.72,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C18:3n6 gamma linolenic (GLA),54,0.63,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C18:3n6 gamma linolenic (GLA),55,0.45,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C18:3n6 gamma linolenic (GLA),58,1.1,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C18:3n6 gamma linolenic (GLA),61,0.46,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C18:3n6 gamma linolenic (GLA),64,0.63,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C18:3n6 gamma linolenic (GLA),68,0.39,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C18:3n6 gamma linolenic (GLA),72,0.77,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C18:3n6 gamma linolenic (GLA),79,0.42,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C18:3n6 gamma linolenic (GLA),80,0.63,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C18:3n6 gamma linolenic (GLA),81,0.72,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C18:3n6 gamma linolenic (GLA),82,0.52,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C18:3n6 gamma linolenic (GLA),83,0.48,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C18:3n6 gamma linolenic (GLA),84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C18:3n6 gamma linolenic (GLA),85,0.56,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C18:3n6 gamma linolenic (GLA),86,0.46,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C18:3n6 gamma linolenic (GLA),87,0.54,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C18:3n6 gamma linolenic (GLA),88,0.58,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C18:3n6 gamma linolenic (GLA),89,0.58,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C18:3n6 gamma linolenic (GLA),90,0.76,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C18:3n6 gamma linolenic (GLA),91,0.5,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C18:3n6 gamma linolenic (GLA),92,0.59,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C18:3n6 gamma linolenic (GLA),93,0.38,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C18:3n6 gamma linolenic (GLA),94,0.74,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C18:3n6 gamma linolenic (GLA),95,0.26,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C18:3n6 gamma linolenic (GLA),96,0.55,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C18:3n6 gamma linolenic (GLA),97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C18:3n6 gamma linolenic (GLA),98,0.58,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C18:3n6 gamma linolenic (GLA),99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C18:3n6 gamma linolenic (GLA),100,0.71,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C18:3n6 gamma linolenic (GLA),101,0.53,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C18:3n6 gamma linolenic (GLA),102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C18:3n6 gamma linolenic (GLA),103,0.48,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C18:3n6 gamma linolenic (GLA),104,0.31,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C18:3n6 gamma linolenic (GLA),105,0.39,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C18:3n6 gamma linolenic (GLA),106,0.25,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C18:3n6 gamma linolenic (GLA),107,0.54,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C18:3n6 gamma linolenic (GLA),108,0.49,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C18:3n6 gamma linolenic (GLA),109,0.47,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C18:3n6 gamma linolenic (GLA),110,0.59,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C18:3n6 gamma linolenic (GLA),111,0.41,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C18:3n6 gamma linolenic (GLA),112,0.37,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C18:3n6 gamma linolenic (GLA),113,0.26,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C18:3n6 gamma linolenic (GLA),114,0.37,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C18:3n4 octadecatrienoic acid,1,0,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C18:3n4 octadecatrienoic acid,2,0,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C18:3n4 octadecatrienoic acid,3,0,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C18:3n4 octadecatrienoic acid,4,0,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C18:3n4 octadecatrienoic acid,5,0,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C18:3n4 octadecatrienoic acid,6,0,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C18:3n4 octadecatrienoic acid,7,1,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C18:3n4 octadecatrienoic acid,9,0.67,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C18:3n4 octadecatrienoic acid,11,0.61,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C18:3n4 octadecatrienoic acid,13,0.53,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C18:3n4 octadecatrienoic acid,16,0.35,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C18:3n4 octadecatrienoic acid,18,0.79,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C18:3n4 octadecatrienoic acid,20,0.99,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C18:3n4 octadecatrienoic acid,23,1.1,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C18:3n4 octadecatrienoic acid,26,1,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C18:3n4 octadecatrienoic acid,29,1.5,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C18:3n4 octadecatrienoic acid,34,1.8,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C18:3n4 octadecatrienoic acid,38,0.46,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C18:3n4 octadecatrienoic acid,43,0.33,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C18:3n4 octadecatrienoic acid,44,0.19,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C18:3n4 octadecatrienoic acid,45,0.24,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C18:3n4 octadecatrienoic acid,46,0.23,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C18:3n4 octadecatrienoic acid,47,0.13,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C18:3n4 octadecatrienoic acid,48,0.15,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C18:3n4 octadecatrienoic acid,49,0.85,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C18:3n4 octadecatrienoic acid,50,0.65,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C18:3n4 octadecatrienoic acid,51,1.4,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C18:3n4 octadecatrienoic acid,52,1.5,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C18:3n4 octadecatrienoic acid,53,1.6,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C18:3n4 octadecatrienoic acid,54,1.1,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C18:3n4 octadecatrienoic acid,55,1,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C18:3n4 octadecatrienoic acid,58,0.41,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C18:3n4 octadecatrienoic acid,61,1.1,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C18:3n4 octadecatrienoic acid,64,1.3,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C18:3n4 octadecatrienoic acid,68,2.1,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C18:3n4 octadecatrienoic acid,72,0.64,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C18:3n4 octadecatrienoic acid,79,0,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C18:3n4 octadecatrienoic acid,80,0.33,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C18:3n4 octadecatrienoic acid,81,0,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C18:3n4 octadecatrienoic acid,82,0.5,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C18:3n4 octadecatrienoic acid,83,0,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C18:3n4 octadecatrienoic acid,84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C18:3n4 octadecatrienoic acid,85,0.2,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C18:3n4 octadecatrienoic acid,86,0.35,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C18:3n4 octadecatrienoic acid,87,0.25,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C18:3n4 octadecatrienoic acid,88,0.11,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C18:3n4 octadecatrienoic acid,89,0.14,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C18:3n4 octadecatrienoic acid,90,0.13,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C18:3n4 octadecatrienoic acid,91,0.58,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C18:3n4 octadecatrienoic acid,92,0.4,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C18:3n4 octadecatrienoic acid,93,0.32,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C18:3n4 octadecatrienoic acid,94,0.13,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C18:3n4 octadecatrienoic acid,95,0.15,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C18:3n4 octadecatrienoic acid,96,0.18,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C18:3n4 octadecatrienoic acid,97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C18:3n4 octadecatrienoic acid,98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C18:3n4 octadecatrienoic acid,99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C18:3n4 octadecatrienoic acid,100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C18:3n4 octadecatrienoic acid,101,0,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C18:3n4 octadecatrienoic acid,102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C18:3n4 octadecatrienoic acid,103,0.13,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C18:3n4 octadecatrienoic acid,104,0,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C18:3n4 octadecatrienoic acid,105,0,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C18:3n4 octadecatrienoic acid,106,0,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C18:3n4 octadecatrienoic acid,107,0,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C18:3n4 octadecatrienoic acid,108,0,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C18:3n4 octadecatrienoic acid,109,0,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C18:3n4 octadecatrienoic acid,110,0,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C18:3n4 octadecatrienoic acid,111,0,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C18:3n4 octadecatrienoic acid,112,0,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C18:3n4 octadecatrienoic acid,113,0,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C18:3n4 octadecatrienoic acid,114,0,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C18:4n3 stearidonic acid (SDA),1,2.7,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C18:4n3 stearidonic acid (SDA),2,3.4,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C18:4n3 stearidonic acid (SDA),3,10.5,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C18:4n3 stearidonic acid (SDA),4,2.6,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C18:4n3 stearidonic acid (SDA),5,6,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C18:4n3 stearidonic acid (SDA),6,5.2,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C18:4n3 stearidonic acid (SDA),7,3.8,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C18:4n3 stearidonic acid (SDA),9,3.9,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C18:4n3 stearidonic acid (SDA),11,3.8,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C18:4n3 stearidonic acid (SDA),13,3.9,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C18:4n3 stearidonic acid (SDA),16,4.8,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C18:4n3 stearidonic acid (SDA),18,2.9,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C18:4n3 stearidonic acid (SDA),20,3.3,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C18:4n3 stearidonic acid (SDA),23,3.6,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C18:4n3 stearidonic acid (SDA),26,3.8,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C18:4n3 stearidonic acid (SDA),29,3.1,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C18:4n3 stearidonic acid (SDA),34,3,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C18:4n3 stearidonic acid (SDA),38,4.4,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C18:4n3 stearidonic acid (SDA),43,3.6,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C18:4n3 stearidonic acid (SDA),44,2.1,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C18:4n3 stearidonic acid (SDA),45,2.6,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C18:4n3 stearidonic acid (SDA),46,3.6,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C18:4n3 stearidonic acid (SDA),47,2.9,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C18:4n3 stearidonic acid (SDA),48,3.1,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C18:4n3 stearidonic acid (SDA),49,4.6,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C18:4n3 stearidonic acid (SDA),50,3.1,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C18:4n3 stearidonic acid (SDA),51,3.4,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C18:4n3 stearidonic acid (SDA),52,2.6,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C18:4n3 stearidonic acid (SDA),53,2.8,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C18:4n3 stearidonic acid (SDA),54,2.7,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C18:4n3 stearidonic acid (SDA),55,3.9,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C18:4n3 stearidonic acid (SDA),58,7.5,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C18:4n3 stearidonic acid (SDA),61,4.1,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C18:4n3 stearidonic acid (SDA),64,4.9,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C18:4n3 stearidonic acid (SDA),68,3.6,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C18:4n3 stearidonic acid (SDA),72,5,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C18:4n3 stearidonic acid (SDA),79,2,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C18:4n3 stearidonic acid (SDA),80,2.2,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C18:4n3 stearidonic acid (SDA),81,2.7,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C18:4n3 stearidonic acid (SDA),82,1.7,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C18:4n3 stearidonic acid (SDA),83,1.2,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C18:4n3 stearidonic acid (SDA),84,1.7,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C18:4n3 stearidonic acid (SDA),85,2.9,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C18:4n3 stearidonic acid (SDA),86,2.6,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C18:4n3 stearidonic acid (SDA),87,3.2,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C18:4n3 stearidonic acid (SDA),88,3.2,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C18:4n3 stearidonic acid (SDA),89,2.7,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C18:4n3 stearidonic acid (SDA),90,3.7,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C18:4n3 stearidonic acid (SDA),91,2.5,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C18:4n3 stearidonic acid (SDA),92,3.5,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C18:4n3 stearidonic acid (SDA),93,2.4,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C18:4n3 stearidonic acid (SDA),94,3.5,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C18:4n3 stearidonic acid (SDA),95,1.1,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C18:4n3 stearidonic acid (SDA),96,2,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C18:4n3 stearidonic acid (SDA),97,1.7,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C18:4n3 stearidonic acid (SDA),98,1.4,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C18:4n3 stearidonic acid (SDA),99,2.3,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C18:4n3 stearidonic acid (SDA),100,2.2,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C18:4n3 stearidonic acid (SDA),101,2.1,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C18:4n3 stearidonic acid (SDA),102,2.2,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C18:4n3 stearidonic acid (SDA),103,2,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C18:4n3 stearidonic acid (SDA),104,1.8,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C18:4n3 stearidonic acid (SDA),105,3,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C18:4n3 stearidonic acid (SDA),106,0.88,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C18:4n3 stearidonic acid (SDA),107,2.8,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C18:4n3 stearidonic acid (SDA),108,2.6,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C18:4n3 stearidonic acid (SDA),109,2.7,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C18:4n3 stearidonic acid (SDA),110,3.6,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C18:4n3 stearidonic acid (SDA),111,2.6,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C18:4n3 stearidonic acid (SDA),112,2.5,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C18:4n3 stearidonic acid (SDA),113,1.5,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C18:4n3 stearidonic acid (SDA),114,2.2,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C20:0 arachidic acid,1,0.7,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C20:0 arachidic acid,2,0.47,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C20:0 arachidic acid,3,0.68,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C20:0 arachidic acid,4,0.39,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C20:0 arachidic acid,5,0.52,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C20:0 arachidic acid,6,0.58,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C20:0 arachidic acid,7,0.8,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C20:0 arachidic acid,9,0.57,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C20:0 arachidic acid,11,0.63,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C20:0 arachidic acid,13,0.4,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C20:0 arachidic acid,16,0.5,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C20:0 arachidic acid,18,0.45,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C20:0 arachidic acid,20,0.89,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C20:0 arachidic acid,23,0.87,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C20:0 arachidic acid,26,0.84,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C20:0 arachidic acid,29,1.4,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C20:0 arachidic acid,34,1.3,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C20:0 arachidic acid,38,0.74,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C20:0 arachidic acid,43,0.49,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C20:0 arachidic acid,44,0.33,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C20:0 arachidic acid,45,0.3,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C20:0 arachidic acid,46,0.47,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C20:0 arachidic acid,47,0.48,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C20:0 arachidic acid,48,0.41,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C20:0 arachidic acid,49,0.65,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C20:0 arachidic acid,50,0.75,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C20:0 arachidic acid,51,0.63,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C20:0 arachidic acid,52,0.7,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C20:0 arachidic acid,53,0.8,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C20:0 arachidic acid,54,0.51,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C20:0 arachidic acid,55,0.99,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C20:0 arachidic acid,58,0.78,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C20:0 arachidic acid,61,1.2,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C20:0 arachidic acid,64,1.2,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C20:0 arachidic acid,68,1.5,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C20:0 arachidic acid,72,0.84,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C20:0 arachidic acid,79,0.32,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C20:0 arachidic acid,80,0.42,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C20:0 arachidic acid,81,0.49,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C20:0 arachidic acid,82,0.57,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C20:0 arachidic acid,83,0.69,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C20:0 arachidic acid,84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C20:0 arachidic acid,85,0.16,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C20:0 arachidic acid,86,0.19,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C20:0 arachidic acid,87,0.18,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C20:0 arachidic acid,88,0.17,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C20:0 arachidic acid,89,0.12,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C20:0 arachidic acid,90,0.17,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C20:0 arachidic acid,91,0.21,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C20:0 arachidic acid,92,0.27,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C20:0 arachidic acid,93,0.27,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C20:0 arachidic acid,94,0.2,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C20:0 arachidic acid,95,0.17,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C20:0 arachidic acid,96,0.12,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C20:0 arachidic acid,97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C20:0 arachidic acid,98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C20:0 arachidic acid,99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C20:0 arachidic acid,100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C20:0 arachidic acid,101,0.33,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C20:0 arachidic acid,102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C20:0 arachidic acid,103,0.13,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C20:0 arachidic acid,104,0.17,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C20:0 arachidic acid,105,0.13,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C20:0 arachidic acid,106,0.12,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C20:0 arachidic acid,107,0.13,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C20:0 arachidic acid,108,0.13,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C20:0 arachidic acid,109,0.23,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C20:0 arachidic acid,110,0.28,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C20:0 arachidic acid,111,0.54,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C20:0 arachidic acid,112,0.27,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C20:0 arachidic acid,113,0.27,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C20:0 arachidic acid,114,0.17,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C20:1 gadoleic acid,1,0,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C20:1 gadoleic acid,2,0,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C20:1 gadoleic acid,3,0,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C20:1 gadoleic acid,4,0,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C20:1 gadoleic acid,5,0,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C20:1 gadoleic acid,6,0,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C20:1 gadoleic acid,7,0.22,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C20:1 gadoleic acid,9,0.22,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C20:1 gadoleic acid,11,0.24,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C20:1 gadoleic acid,13,0.23,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C20:1 gadoleic acid,16,0,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C20:1 gadoleic acid,18,0.35,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C20:1 gadoleic acid,20,0.36,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C20:1 gadoleic acid,23,0.25,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C20:1 gadoleic acid,26,0.34,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C20:1 gadoleic acid,29,0.23,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C20:1 gadoleic acid,34,0.52,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C20:1 gadoleic acid,38,0,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C20:1 gadoleic acid,43,0,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C20:1 gadoleic acid,44,0,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C20:1 gadoleic acid,45,0,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C20:1 gadoleic acid,46,0,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C20:1 gadoleic acid,47,0,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C20:1 gadoleic acid,48,0,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C20:1 gadoleic acid,49,0.21,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C20:1 gadoleic acid,50,0.25,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C20:1 gadoleic acid,51,0.19,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C20:1 gadoleic acid,52,0.15,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C20:1 gadoleic acid,53,0.15,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C20:1 gadoleic acid,54,0.11,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C20:1 gadoleic acid,55,0.35,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C20:1 gadoleic acid,58,0.34,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C20:1 gadoleic acid,61,0.36,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C20:1 gadoleic acid,64,0.36,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C20:1 gadoleic acid,68,0.46,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C20:1 gadoleic acid,72,0.3,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C20:1 gadoleic acid,79,0,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C20:1 gadoleic acid,80,0,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C20:1 gadoleic acid,81,0,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C20:1 gadoleic acid,82,0,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C20:1 gadoleic acid,83,0,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C20:1 gadoleic acid,84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C20:1 gadoleic acid,85,0,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C20:1 gadoleic acid,86,0,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C20:1 gadoleic acid,87,0,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C20:1 gadoleic acid,88,0,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C20:1 gadoleic acid,89,0,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C20:1 gadoleic acid,90,0,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C20:1 gadoleic acid,91,0.22,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C20:1 gadoleic acid,92,0,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C20:1 gadoleic acid,93,0,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C20:1 gadoleic acid,94,0,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C20:1 gadoleic acid,95,0,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C20:1 gadoleic acid,96,0,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C20:1 gadoleic acid,97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C20:1 gadoleic acid,98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C20:1 gadoleic acid,99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C20:1 gadoleic acid,100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C20:1 gadoleic acid,101,0,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C20:1 gadoleic acid,102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C20:1 gadoleic acid,103,0,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C20:1 gadoleic acid,104,0.12,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C20:1 gadoleic acid,105,0.25,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C20:1 gadoleic acid,106,0,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C20:1 gadoleic acid,107,0,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C20:1 gadoleic acid,108,0,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C20:1 gadoleic acid,109,0.24,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C20:1 gadoleic acid,110,0.11,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C20:1 gadoleic acid,111,0.21,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C20:1 gadoleic acid,112,0.3,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C20:1 gadoleic acid,113,0.21,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C20:1 gadoleic acid,114,0.24,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",1,0.16,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",2,0.2,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",3,0.31,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",4,0.92,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",5,0.32,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",6,0.29,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",7,0.51,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",9,0.4,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",11,0.43,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",13,0.32,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",16,0.47,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",18,0.26,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",20,0.27,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",23,0.32,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",26,0.27,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",29,0.31,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",34,0.3,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",38,0.3,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",43,0.2,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",44,0.14,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",45,0.13,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",46,0.19,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",47,0.13,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",48,0.14,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",49,0.28,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",50,0.26,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",51,0.41,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",52,0.22,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",53,0.22,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",54,0.35,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",55,0.36,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",58,0.28,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",61,0.28,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",64,0.33,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",68,0.29,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",72,0.44,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",79,0,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",80,0,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",81,0,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",82,0,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",83,0,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",85,0.24,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",86,0,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",87,0.12,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",88,0.12,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",89,0.12,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",90,0.18,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",91,0.19,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",92,0.14,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",93,0,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",94,0.15,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",95,0,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",96,0,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",101,0,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",103,0,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",104,0,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",105,0,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",106,0,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",107,0,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",108,0,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",109,0.12,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",110,0.14,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",111,0,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",112,0,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",113,0,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+"C20:3n6 cis-8,11,14-eicosatrienoic acid",114,0,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C20:4n3 eicosatetraenoic acid,1,0.21,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C20:4n3 eicosatetraenoic acid,2,0.3,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C20:4n3 eicosatetraenoic acid,3,0.49,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C20:4n3 eicosatetraenoic acid,4,0.21,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C20:4n3 eicosatetraenoic acid,5,0.39,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C20:4n3 eicosatetraenoic acid,6,0.35,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C20:4n3 eicosatetraenoic acid,7,0.46,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C20:4n3 eicosatetraenoic acid,9,0.36,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C20:4n3 eicosatetraenoic acid,11,0.36,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C20:4n3 eicosatetraenoic acid,13,0.38,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C20:4n3 eicosatetraenoic acid,16,0.38,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C20:4n3 eicosatetraenoic acid,18,0.36,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C20:4n3 eicosatetraenoic acid,20,0.35,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C20:4n3 eicosatetraenoic acid,23,0.4,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C20:4n3 eicosatetraenoic acid,26,0.4,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C20:4n3 eicosatetraenoic acid,29,0.49,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C20:4n3 eicosatetraenoic acid,34,0.51,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C20:4n3 eicosatetraenoic acid,38,0.38,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C20:4n3 eicosatetraenoic acid,43,0.24,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C20:4n3 eicosatetraenoic acid,44,0.16,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C20:4n3 eicosatetraenoic acid,45,0.17,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C20:4n3 eicosatetraenoic acid,46,0.22,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C20:4n3 eicosatetraenoic acid,47,0.18,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C20:4n3 eicosatetraenoic acid,48,0.26,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C20:4n3 eicosatetraenoic acid,49,0.34,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C20:4n3 eicosatetraenoic acid,50,0.25,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C20:4n3 eicosatetraenoic acid,51,0.32,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C20:4n3 eicosatetraenoic acid,52,0.27,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C20:4n3 eicosatetraenoic acid,53,0.28,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C20:4n3 eicosatetraenoic acid,54,0.25,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C20:4n3 eicosatetraenoic acid,55,0.56,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C20:4n3 eicosatetraenoic acid,58,0.43,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C20:4n3 eicosatetraenoic acid,61,0.59,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C20:4n3 eicosatetraenoic acid,64,0.66,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C20:4n3 eicosatetraenoic acid,68,0.66,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C20:4n3 eicosatetraenoic acid,72,0.48,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C20:4n3 eicosatetraenoic acid,79,0,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C20:4n3 eicosatetraenoic acid,80,0,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C20:4n3 eicosatetraenoic acid,81,0,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C20:4n3 eicosatetraenoic acid,82,0,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C20:4n3 eicosatetraenoic acid,83,0,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C20:4n3 eicosatetraenoic acid,84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C20:4n3 eicosatetraenoic acid,85,0.17,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C20:4n3 eicosatetraenoic acid,86,0.19,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C20:4n3 eicosatetraenoic acid,87,0.25,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C20:4n3 eicosatetraenoic acid,88,0.21,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C20:4n3 eicosatetraenoic acid,89,0.2,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C20:4n3 eicosatetraenoic acid,90,0.22,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C20:4n3 eicosatetraenoic acid,91,0.16,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C20:4n3 eicosatetraenoic acid,92,0.18,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C20:4n3 eicosatetraenoic acid,93,0.13,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C20:4n3 eicosatetraenoic acid,94,0.21,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C20:4n3 eicosatetraenoic acid,95,0,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C20:4n3 eicosatetraenoic acid,96,0.15,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C20:4n3 eicosatetraenoic acid,97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C20:4n3 eicosatetraenoic acid,98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C20:4n3 eicosatetraenoic acid,99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C20:4n3 eicosatetraenoic acid,100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C20:4n3 eicosatetraenoic acid,101,0,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C20:4n3 eicosatetraenoic acid,102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C20:4n3 eicosatetraenoic acid,103,0,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C20:4n3 eicosatetraenoic acid,104,0,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C20:4n3 eicosatetraenoic acid,105,0.15,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C20:4n3 eicosatetraenoic acid,106,0,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C20:4n3 eicosatetraenoic acid,107,0.12,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C20:4n3 eicosatetraenoic acid,108,0.11,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C20:4n3 eicosatetraenoic acid,109,0.21,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C20:4n3 eicosatetraenoic acid,110,0.23,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C20:4n3 eicosatetraenoic acid,111,0.21,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C20:4n3 eicosatetraenoic acid,112,0.22,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C20:4n3 eicosatetraenoic acid,113,0.11,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C20:4n3 eicosatetraenoic acid,114,0.2,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C20:4n6 arachidonic acid (AA),1,1.3,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C20:4n6 arachidonic acid (AA),2,1.7,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C20:4n6 arachidonic acid (AA),3,4,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C20:4n6 arachidonic acid (AA),4,1.6,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C20:4n6 arachidonic acid (AA),5,2.6,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C20:4n6 arachidonic acid (AA),6,2.4,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C20:4n6 arachidonic acid (AA),7,3.1,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C20:4n6 arachidonic acid (AA),9,3.2,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C20:4n6 arachidonic acid (AA),11,3.1,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C20:4n6 arachidonic acid (AA),13,3.4,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C20:4n6 arachidonic acid (AA),16,6.6,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C20:4n6 arachidonic acid (AA),18,2.3,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C20:4n6 arachidonic acid (AA),20,2.8,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C20:4n6 arachidonic acid (AA),23,3.4,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C20:4n6 arachidonic acid (AA),26,3.7,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C20:4n6 arachidonic acid (AA),29,4.3,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C20:4n6 arachidonic acid (AA),34,3.7,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C20:4n6 arachidonic acid (AA),38,6.5,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C20:4n6 arachidonic acid (AA),43,1.5,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C20:4n6 arachidonic acid (AA),44,0.92,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C20:4n6 arachidonic acid (AA),45,1.1,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C20:4n6 arachidonic acid (AA),46,1.5,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C20:4n6 arachidonic acid (AA),47,1.1,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C20:4n6 arachidonic acid (AA),48,1.4,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C20:4n6 arachidonic acid (AA),49,2.5,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C20:4n6 arachidonic acid (AA),50,3,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C20:4n6 arachidonic acid (AA),51,2.4,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C20:4n6 arachidonic acid (AA),52,1.8,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C20:4n6 arachidonic acid (AA),53,2.1,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C20:4n6 arachidonic acid (AA),54,2.4,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C20:4n6 arachidonic acid (AA),55,2.2,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C20:4n6 arachidonic acid (AA),58,5.2,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C20:4n6 arachidonic acid (AA),61,2.6,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C20:4n6 arachidonic acid (AA),64,4.4,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C20:4n6 arachidonic acid (AA),68,3.1,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C20:4n6 arachidonic acid (AA),72,7.4,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C20:4n6 arachidonic acid (AA),79,0.51,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C20:4n6 arachidonic acid (AA),80,0.45,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C20:4n6 arachidonic acid (AA),81,0.63,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C20:4n6 arachidonic acid (AA),82,0.51,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C20:4n6 arachidonic acid (AA),83,0,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C20:4n6 arachidonic acid (AA),84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C20:4n6 arachidonic acid (AA),85,0.68,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C20:4n6 arachidonic acid (AA),86,0.58,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C20:4n6 arachidonic acid (AA),87,0.66,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C20:4n6 arachidonic acid (AA),88,0.78,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C20:4n6 arachidonic acid (AA),89,0.62,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C20:4n6 arachidonic acid (AA),90,0.8,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C20:4n6 arachidonic acid (AA),91,0.66,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C20:4n6 arachidonic acid (AA),92,0.98,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C20:4n6 arachidonic acid (AA),93,0.75,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C20:4n6 arachidonic acid (AA),94,0.99,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C20:4n6 arachidonic acid (AA),95,0.28,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C20:4n6 arachidonic acid (AA),96,0.38,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C20:4n6 arachidonic acid (AA),97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C20:4n6 arachidonic acid (AA),98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C20:4n6 arachidonic acid (AA),99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C20:4n6 arachidonic acid (AA),100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C20:4n6 arachidonic acid (AA),101,0.32,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C20:4n6 arachidonic acid (AA),102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C20:4n6 arachidonic acid (AA),103,0.35,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C20:4n6 arachidonic acid (AA),104,0.23,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C20:4n6 arachidonic acid (AA),105,0.4,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C20:4n6 arachidonic acid (AA),106,0.15,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C20:4n6 arachidonic acid (AA),107,0.39,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C20:4n6 arachidonic acid (AA),108,0.43,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C20:4n6 arachidonic acid (AA),109,0.97,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C20:4n6 arachidonic acid (AA),110,1.3,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C20:4n6 arachidonic acid (AA),111,1.2,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C20:4n6 arachidonic acid (AA),112,0.83,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C20:4n6 arachidonic acid (AA),113,0.55,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C20:4n6 arachidonic acid (AA),114,0.62,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C20:5n3 eicosapentaenoic acid,1,2.3,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C20:5n3 eicosapentaenoic acid,2,4.3,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C20:5n3 eicosapentaenoic acid,3,8.1,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C20:5n3 eicosapentaenoic acid,4,4.4,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C20:5n3 eicosapentaenoic acid,5,7,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C20:5n3 eicosapentaenoic acid,6,7.1,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C20:5n3 eicosapentaenoic acid,7,8.4,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C20:5n3 eicosapentaenoic acid,9,6.9,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C20:5n3 eicosapentaenoic acid,11,6.1,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C20:5n3 eicosapentaenoic acid,13,7.4,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C20:5n3 eicosapentaenoic acid,16,11.1,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C20:5n3 eicosapentaenoic acid,18,5.7,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C20:5n3 eicosapentaenoic acid,20,8,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C20:5n3 eicosapentaenoic acid,23,9.6,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C20:5n3 eicosapentaenoic acid,26,9,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C20:5n3 eicosapentaenoic acid,29,10.5,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C20:5n3 eicosapentaenoic acid,34,11.4,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C20:5n3 eicosapentaenoic acid,38,10.7,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C20:5n3 eicosapentaenoic acid,43,5,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C20:5n3 eicosapentaenoic acid,44,3.3,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C20:5n3 eicosapentaenoic acid,45,4.3,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C20:5n3 eicosapentaenoic acid,46,4.6,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C20:5n3 eicosapentaenoic acid,47,3.2,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C20:5n3 eicosapentaenoic acid,48,4.2,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C20:5n3 eicosapentaenoic acid,49,6.8,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C20:5n3 eicosapentaenoic acid,50,5.9,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C20:5n3 eicosapentaenoic acid,51,6.4,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C20:5n3 eicosapentaenoic acid,52,5.9,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C20:5n3 eicosapentaenoic acid,53,5.9,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C20:5n3 eicosapentaenoic acid,54,6.4,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C20:5n3 eicosapentaenoic acid,55,10,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C20:5n3 eicosapentaenoic acid,58,8.8,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C20:5n3 eicosapentaenoic acid,61,10.8,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C20:5n3 eicosapentaenoic acid,64,12,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C20:5n3 eicosapentaenoic acid,68,11.3,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C20:5n3 eicosapentaenoic acid,72,12.1,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C20:5n3 eicosapentaenoic acid,79,3.2,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C20:5n3 eicosapentaenoic acid,80,3.7,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C20:5n3 eicosapentaenoic acid,81,4.4,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C20:5n3 eicosapentaenoic acid,82,4.2,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C20:5n3 eicosapentaenoic acid,83,1.7,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C20:5n3 eicosapentaenoic acid,84,3.2,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C20:5n3 eicosapentaenoic acid,85,5.5,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C20:5n3 eicosapentaenoic acid,86,3.9,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C20:5n3 eicosapentaenoic acid,87,5.3,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C20:5n3 eicosapentaenoic acid,88,5.8,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C20:5n3 eicosapentaenoic acid,89,5.4,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C20:5n3 eicosapentaenoic acid,90,6.3,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C20:5n3 eicosapentaenoic acid,91,6.2,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C20:5n3 eicosapentaenoic acid,92,5.2,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C20:5n3 eicosapentaenoic acid,93,3.7,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C20:5n3 eicosapentaenoic acid,94,5.2,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C20:5n3 eicosapentaenoic acid,95,1.9,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C20:5n3 eicosapentaenoic acid,96,3.7,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C20:5n3 eicosapentaenoic acid,97,2.6,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C20:5n3 eicosapentaenoic acid,98,2.8,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C20:5n3 eicosapentaenoic acid,99,3.7,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C20:5n3 eicosapentaenoic acid,100,3.9,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C20:5n3 eicosapentaenoic acid,101,4,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C20:5n3 eicosapentaenoic acid,102,5.3,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C20:5n3 eicosapentaenoic acid,103,2.7,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C20:5n3 eicosapentaenoic acid,104,2.1,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C20:5n3 eicosapentaenoic acid,105,4.2,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C20:5n3 eicosapentaenoic acid,106,1.2,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C20:5n3 eicosapentaenoic acid,107,4.1,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C20:5n3 eicosapentaenoic acid,108,3.9,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C20:5n3 eicosapentaenoic acid,109,4.4,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C20:5n3 eicosapentaenoic acid,110,5.5,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C20:5n3 eicosapentaenoic acid,111,3.8,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C20:5n3 eicosapentaenoic acid,112,3.4,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C20:5n3 eicosapentaenoic acid,113,1.9,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C20:5n3 eicosapentaenoic acid,114,3.6,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C22:0 behenic acid,1,0.74,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C22:0 behenic acid,2,0.44,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C22:0 behenic acid,3,0.56,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C22:0 behenic acid,4,0.43,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C22:0 behenic acid,5,0.5,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C22:0 behenic acid,6,0.53,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C22:0 behenic acid,7,0.43,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C22:0 behenic acid,9,0.42,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C22:0 behenic acid,11,0.43,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C22:0 behenic acid,13,0.39,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C22:0 behenic acid,16,0.31,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C22:0 behenic acid,18,0.44,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C22:0 behenic acid,20,0.63,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C22:0 behenic acid,23,0.58,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C22:0 behenic acid,26,0.61,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C22:0 behenic acid,29,0.68,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C22:0 behenic acid,34,0.65,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C22:0 behenic acid,38,0.44,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C22:0 behenic acid,43,0.45,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C22:0 behenic acid,44,0.31,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C22:0 behenic acid,45,0.31,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C22:0 behenic acid,46,0.42,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C22:0 behenic acid,47,0.4,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C22:0 behenic acid,48,0.36,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C22:0 behenic acid,49,0.44,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C22:0 behenic acid,50,0.57,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C22:0 behenic acid,51,0.39,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C22:0 behenic acid,52,0.45,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C22:0 behenic acid,53,0.47,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C22:0 behenic acid,54,0.34,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C22:0 behenic acid,55,0.48,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C22:0 behenic acid,58,0.55,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C22:0 behenic acid,61,0.59,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C22:0 behenic acid,64,0.54,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C22:0 behenic acid,68,0.66,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C22:0 behenic acid,72,0.45,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C22:0 behenic acid,79,0.3,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C22:0 behenic acid,80,0.37,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C22:0 behenic acid,81,0.29,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C22:0 behenic acid,82,0.51,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C22:0 behenic acid,83,0.63,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C22:0 behenic acid,84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C22:0 behenic acid,85,0.11,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C22:0 behenic acid,86,0.11,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C22:0 behenic acid,87,0.12,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C22:0 behenic acid,88,0.13,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C22:0 behenic acid,89,0.11,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C22:0 behenic acid,90,0.13,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C22:0 behenic acid,91,0.12,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C22:0 behenic acid,92,0.11,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C22:0 behenic acid,93,0.11,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C22:0 behenic acid,94,0,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C22:0 behenic acid,95,0.13,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C22:0 behenic acid,96,0,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C22:0 behenic acid,97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C22:0 behenic acid,98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C22:0 behenic acid,99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C22:0 behenic acid,100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C22:0 behenic acid,101,0.26,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C22:0 behenic acid,102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C22:0 behenic acid,103,0,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C22:0 behenic acid,104,0.14,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C22:0 behenic acid,105,0.16,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C22:0 behenic acid,106,0.11,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C22:0 behenic acid,107,0.12,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C22:0 behenic acid,108,0.11,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C22:0 behenic acid,109,0.13,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C22:0 behenic acid,110,0.12,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C22:0 behenic acid,111,0.17,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C22:0 behenic acid,112,0.14,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C22:0 behenic acid,113,0.16,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C22:0 behenic acid,114,0.12,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),1,0.24,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),2,0.24,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),3,0.17,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),4,0.17,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),5,0.18,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),6,0.18,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),7,0.32,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),9,0.21,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),11,0.16,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),13,0.24,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),16,0.14,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),18,0.27,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),20,0.64,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),23,0.55,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),26,0.54,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),29,1,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),34,1.1,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),38,0.65,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),43,0.19,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),44,0.14,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),45,0.18,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),46,0.19,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),47,0.16,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),48,0.18,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),49,0.25,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),50,0.19,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),51,0.24,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),52,0.26,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),53,0.26,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),54,0.21,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),55,0.6,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),58,0.17,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),61,0.73,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),64,0.76,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),68,0.99,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),72,0.33,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),79,0,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),80,0,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),81,0,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),82,0,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),83,0,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),85,0,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),86,0.12,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),87,0.15,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),88,0.16,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),89,0.14,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),90,0.16,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),91,0.16,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),92,0,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),93,0,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),94,0.14,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),95,0,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),96,0.14,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),97,3,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),98,5.6,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),99,4.5,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C22:5n3 docosapentaenoic acid (DPA),100,4.2,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),101,0.54,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),102,2.6,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C22:5n3 docosapentaenoic acid (DPA),103,0.11,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),104,0.16,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),105,0.14,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C22:5n3 docosapentaenoic acid (DPA),106,0,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),107,0,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),108,0.11,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C22:5n3 docosapentaenoic acid (DPA),109,0.12,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),110,0.12,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),111,0.13,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C22:5n3 docosapentaenoic acid (DPA),112,0,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),113,0,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C22:5n3 docosapentaenoic acid (DPA),114,0,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),1,0.22,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),2,0.48,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),3,0.53,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),4,0.44,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),5,0.66,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),6,0.58,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),7,3.5,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),9,1.3,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),11,1.1,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),13,2.2,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),16,0.67,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),18,2.7,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),20,5.8,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),23,5.4,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),26,3.9,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),29,5,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),34,5.7,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),38,3.4,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),43,1.4,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),44,0.77,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),45,1.2,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),46,1.2,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),47,0.85,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),48,1.2,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),49,2.5,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),50,1.1,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),51,2.7,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),52,2.5,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),53,2,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),54,1.8,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),55,8.8,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),58,2,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),61,8.4,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),64,6.8,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),68,8.3,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),72,2.6,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),79,0.41,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),80,0.48,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),81,0.43,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),82,0.92,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),83,0,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),84,0,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),85,0.49,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),86,0.44,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),87,0.61,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),88,0.57,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),89,0.62,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),90,0.76,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),91,1.3,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),92,0.55,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),93,0.27,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),94,0.62,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),95,0.25,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),96,0.51,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),97,0,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),98,0,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),99,0,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C22:6n3 docosahexaenoic acid (DHA),100,0,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),101,0.41,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),102,0,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C22:6n3 docosahexaenoic acid (DHA),103,0.22,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),104,0.22,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),105,0.39,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C22:6n3 docosahexaenoic acid (DHA),106,0.1,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),107,0.44,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),108,0.32,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C22:6n3 docosahexaenoic acid (DHA),109,0.26,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),110,0.22,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),111,0.22,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C22:6n3 docosahexaenoic acid (DHA),112,0.19,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),113,0,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C22:6n3 docosahexaenoic acid (DHA),114,0.24,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+C24:0 lignoceric acid,1,0.9,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+C24:0 lignoceric acid,2,0.79,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+C24:0 lignoceric acid,3,0.48,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+C24:0 lignoceric acid,4,0.94,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+C24:0 lignoceric acid,5,0.65,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+C24:0 lignoceric acid,6,0.94,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+C24:0 lignoceric acid,7,0.37,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+C24:0 lignoceric acid,9,0.48,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+C24:0 lignoceric acid,11,0.47,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+C24:0 lignoceric acid,13,0.35,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+C24:0 lignoceric acid,16,0.52,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+C24:0 lignoceric acid,18,0.37,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+C24:0 lignoceric acid,20,0.41,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+C24:0 lignoceric acid,23,0.45,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+C24:0 lignoceric acid,26,0.57,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+C24:0 lignoceric acid,29,0.43,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+C24:0 lignoceric acid,34,0.3,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+C24:0 lignoceric acid,38,0.56,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+C24:0 lignoceric acid,43,0.89,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+C24:0 lignoceric acid,44,0.73,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+C24:0 lignoceric acid,45,0.75,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+C24:0 lignoceric acid,46,0.87,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+C24:0 lignoceric acid,47,0.62,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+C24:0 lignoceric acid,48,0.68,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+C24:0 lignoceric acid,49,0.43,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+C24:0 lignoceric acid,50,0.51,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+C24:0 lignoceric acid,51,0.43,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+C24:0 lignoceric acid,52,0.48,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+C24:0 lignoceric acid,53,0.43,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+C24:0 lignoceric acid,54,0.68,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+C24:0 lignoceric acid,55,0.28,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+C24:0 lignoceric acid,58,0.28,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+C24:0 lignoceric acid,61,0.31,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+C24:0 lignoceric acid,64,0.25,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+C24:0 lignoceric acid,68,0.23,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+C24:0 lignoceric acid,72,0.47,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+C24:0 lignoceric acid,79,0.98,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+C24:0 lignoceric acid,80,0.92,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+C24:0 lignoceric acid,81,0.97,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+C24:0 lignoceric acid,82,0.99,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+C24:0 lignoceric acid,83,1.2,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+C24:0 lignoceric acid,84,1.4,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+C24:0 lignoceric acid,85,0.47,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+C24:0 lignoceric acid,86,0.45,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+C24:0 lignoceric acid,87,0.47,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+C24:0 lignoceric acid,88,0.41,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+C24:0 lignoceric acid,89,0.37,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+C24:0 lignoceric acid,90,0.36,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+C24:0 lignoceric acid,91,0.41,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+C24:0 lignoceric acid,92,0.31,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+C24:0 lignoceric acid,93,0.41,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+C24:0 lignoceric acid,94,0.21,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+C24:0 lignoceric acid,95,0.52,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+C24:0 lignoceric acid,96,0.31,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+C24:0 lignoceric acid,97,1.3,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+C24:0 lignoceric acid,98,1,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+C24:0 lignoceric acid,99,1.9,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+C24:0 lignoceric acid,100,1.6,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+C24:0 lignoceric acid,101,1.1,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+C24:0 lignoceric acid,102,1.7,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+C24:0 lignoceric acid,103,0.42,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+C24:0 lignoceric acid,104,0.43,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+C24:0 lignoceric acid,105,0.47,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+C24:0 lignoceric acid,106,0.51,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+C24:0 lignoceric acid,107,0.36,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+C24:0 lignoceric acid,108,0.43,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+C24:0 lignoceric acid,109,0.53,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+C24:0 lignoceric acid,110,0.37,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+C24:0 lignoceric acid,111,0.42,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+C24:0 lignoceric acid,112,0.53,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+C24:0 lignoceric acid,113,0.53,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+C24:0 lignoceric acid,114,0.48,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+∑Saturated fatty acids SFA,1,53.03,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+∑Saturated fatty acids SFA,2,51.86,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+∑Saturated fatty acids SFA,3,38.44,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+∑Saturated fatty acids SFA,4,54.5,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+∑Saturated fatty acids SFA,5,45.51,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+∑Saturated fatty acids SFA,6,47.78,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+∑Saturated fatty acids SFA,7,41.06,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+∑Saturated fatty acids SFA,9,44.72,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+∑Saturated fatty acids SFA,11,46.68,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+∑Saturated fatty acids SFA,13,42.13,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+∑Saturated fatty acids SFA,16,41.45,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+∑Saturated fatty acids SFA,18,45.77,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+∑Saturated fatty acids SFA,20,37.03,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+∑Saturated fatty acids SFA,23,37.29,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+∑Saturated fatty acids SFA,26,38.45,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+∑Saturated fatty acids SFA,29,36.6,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+∑Saturated fatty acids SFA,34,33.78,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+∑Saturated fatty acids SFA,38,38.02,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+∑Saturated fatty acids SFA,43,48.68,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+∑Saturated fatty acids SFA,44,54.13,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+∑Saturated fatty acids SFA,45,50.74,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+∑Saturated fatty acids SFA,46,51.93,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+∑Saturated fatty acids SFA,47,55.8,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+∑Saturated fatty acids SFA,48,52.15,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+∑Saturated fatty acids SFA,49,41.78,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+∑Saturated fatty acids SFA,50,47.2,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+∑Saturated fatty acids SFA,51,40.57,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+∑Saturated fatty acids SFA,52,41.98,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+∑Saturated fatty acids SFA,53,43.72,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+∑Saturated fatty acids SFA,54,42.81,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+∑Saturated fatty acids SFA,55,34.11,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+∑Saturated fatty acids SFA,58,37.97,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+∑Saturated fatty acids SFA,61,33.92,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+∑Saturated fatty acids SFA,64,33.82,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+∑Saturated fatty acids SFA,68,32.26,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+∑Saturated fatty acids SFA,72,39.11,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+∑Saturated fatty acids SFA,79,50.75,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+∑Saturated fatty acids SFA,80,48.08,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+∑Saturated fatty acids SFA,81,47.58,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+∑Saturated fatty acids SFA,82,48.86,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+∑Saturated fatty acids SFA,83,56.26,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+∑Saturated fatty acids SFA,84,55.4,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+∑Saturated fatty acids SFA,85,44.83,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+∑Saturated fatty acids SFA,86,45.47,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+∑Saturated fatty acids SFA,87,43.38,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+∑Saturated fatty acids SFA,88,44.41,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+∑Saturated fatty acids SFA,89,44.85,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+∑Saturated fatty acids SFA,90,44.45,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+∑Saturated fatty acids SFA,91,41.82,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+∑Saturated fatty acids SFA,92,44.76,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+∑Saturated fatty acids SFA,93,47.45,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+∑Saturated fatty acids SFA,94,43.63,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+∑Saturated fatty acids SFA,95,50.68,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+∑Saturated fatty acids SFA,96,47.41,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+∑Saturated fatty acids SFA,97,47.7,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+∑Saturated fatty acids SFA,98,44.08,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+∑Saturated fatty acids SFA,99,47.1,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+∑Saturated fatty acids SFA,100,44.12,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+∑Saturated fatty acids SFA,101,45,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+∑Saturated fatty acids SFA,102,47.3,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+∑Saturated fatty acids SFA,103,48.91,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+∑Saturated fatty acids SFA,104,49.43,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+∑Saturated fatty acids SFA,105,43.26,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+∑Saturated fatty acids SFA,106,52.85,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+∑Saturated fatty acids SFA,107,46.28,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+∑Saturated fatty acids SFA,108,47.23,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+∑Saturated fatty acids SFA,109,46.67,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+∑Saturated fatty acids SFA,110,44.15,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+∑Saturated fatty acids SFA,111,48.76,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+∑Saturated fatty acids SFA,112,49.29,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+∑Saturated fatty acids SFA,113,53.81,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+∑Saturated fatty acids SFA,114,50.75,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,1,20.51,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,2,21.64,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,3,15.53,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,4,21.37,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,5,19.3,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,6,18.5,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,7,19.48,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,9,20.73,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,11,21.2,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,13,19.07,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,16,18.79,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,18,19.09,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,20,16.33,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,23,16.28,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,26,16.56,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,29,15.91,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,34,16.16,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,38,15.35,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,43,21.08,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,44,24.43,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,45,23.64,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,46,21.28,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,47,22.16,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,48,24.1,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,49,18.1,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,50,19.6,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,51,17.69,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,52,17.44,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,53,17.55,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,54,18.77,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,55,13.97,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,58,14.77,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,61,13.27,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,64,14.48,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,68,14.09,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,72,15.8,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,79,23.87,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,80,22.05,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,81,21.64,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,82,23.36,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,83,23.96,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,84,24.2,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,85,31.66,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,86,33.58,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,87,32.85,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,88,28.51,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,89,30.65,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,90,27.21,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,91,30.11,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,92,32.27,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,93,33.77,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,94,34.98,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,95,35.04,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,96,36.6,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,97,27.4,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,98,27.2,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,99,20.1,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+∑Mono-unsaturated fatty acids MUFA,100,20.1,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,101,22.96,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,102,22.3,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+∑Mono-unsaturated fatty acids MUFA,103,31.74,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,104,32.81,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,105,29.88,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+∑Mono-unsaturated fatty acids MUFA,106,32.97,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,107,29.52,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,108,29.57,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+∑Mono-unsaturated fatty acids MUFA,109,31.66,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,110,33.76,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,111,29.81,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+∑Mono-unsaturated fatty acids MUFA,112,29.08,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,113,28.24,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+∑Mono-unsaturated fatty acids MUFA,114,28.69,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,1,14.77,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,2,17.34,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,3,36.49,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,4,15.84,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,5,26.32,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,6,24.06,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,7,27.39,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,9,24.06,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,11,23.31,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,13,24.69,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,16,32.37,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,18,20,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,20,26.5,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,23,29.29,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,26,28.34,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,29,29.59,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,34,30.08,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,38,32.63,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,43,18.81,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,44,12.32,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,45,15,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,46,17.59,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,47,13.46,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,48,16.42,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,49,25.15,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,50,21.87,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,51,22.34,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,52,18.78,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,53,18.59,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,54,19.58,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,55,32.07,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,58,36.71,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,61,33.48,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,64,36.08,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,68,33.09,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,72,35.01,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,79,12.46,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,80,15.39,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,81,17.08,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,82,14.92,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,83,8.64,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,84,10.7,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,85,15.99,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,86,13.19,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,87,16.45,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,88,17.1,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,89,15.65,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,90,18.98,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,91,15.99,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,92,15.5,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,93,11.26,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,94,16.14,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,95,6.28,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,96,10.34,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,97,11.6,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,98,14.38,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,99,16.6,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,100,16.11,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,101,12.6,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,102,16.9,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,103,9.42,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,104,8.22,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,105,14.27,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,106,4.73,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,107,13.34,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,108,12.63,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,109,14.86,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,110,16.65,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,111,14.25,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+∑ poly-unsaturated fatty acids 3 PUFA,112,12.75,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,113,7.95,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+∑ poly-unsaturated fatty acids 3 PUFA,114,11.96,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,1,8.77,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,2,11.22,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,3,25.59,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,4,9.12,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,5,17.93,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,6,16.21,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,7,18.98,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,9,15.47,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,11,14.72,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,13,16.22,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,16,19.09,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,18,13.53,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,20,19.79,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,23,21.55,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,26,19.94,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,29,21.39,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,34,22.81,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,38,21.23,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,43,12.93,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,44,7.87,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,45,10.05,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,46,12.11,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,47,9.09,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,48,10.94,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,49,17.69,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,50,13.54,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,51,15.66,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,52,13.33,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,53,12.84,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,54,13.06,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,55,25.86,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,58,24.2,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,61,26.92,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,64,27.32,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,68,26.45,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,72,22.41,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,79,6.33,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,80,7.31,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,81,9.03,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,82,7.59,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,83,3.46,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,84,4.9,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,85,9.91,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,86,8.25,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,87,10.43,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,88,10.82,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,89,9.73,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,90,12.14,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,91,11.04,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,92,11.13,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,93,7.8,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,94,11.27,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,95,3.67,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,96,7.1,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,97,7.3,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,98,9.8,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,99,10.5,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,100,10.3,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,101,7.45,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,102,10.1,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,103,5.59,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,104,4.88,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,105,9.38,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,106,2.33,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,107,8.11,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,108,7.71,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,109,10.19,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,110,11.87,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,111,9.56,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,112,8.71,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,113,4.71,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+∑omega 3 poly-unsaturated fatty acids n-3 PUFA,114,8.14,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G
+Fat Content g/100g,1,0.715922823,13,Summer_1_C_A,Spring/Summer,1,13,Berth C
+Fat Content g/100g,2,0.625188698,13,Summer_1_C_B,Spring/Summer,1,13,Berth C
+Fat Content g/100g,3,0.87690691,13,Summer_1_C_C,Spring/Summer,1,13,Berth C
+Fat Content g/100g,4,0.830584933,13,Summer_1_G_A,Spring/Summer,1,13,Berth G
+Fat Content g/100g,5,0.84591152,13,Summer_1_G_B,Spring/Summer,1,13,Berth G
+Fat Content g/100g,6,0.819340939,13,Summer_1_G_C,Spring/Summer,1,13,Berth G
+Fat Content g/100g,7,0.92116747,32,Summer_1_C_A-1,Spring/Summer,1,32,Berth C
+Fat Content g/100g,9,0.881929966,32,Summer_1_C_B-1,Spring/Summer,1,32,Berth C
+Fat Content g/100g,11,0.829115224,32,Summer_1_C_C-1,Spring/Summer,1,32,Berth C
+Fat Content g/100g,13,1.113632174,32,Summer_1_G_A-1,Spring/Summer,1,32,Berth G
+Fat Content g/100g,16,1.193495801,32,Summer_1_G_B-1,Spring/Summer,1,32,Berth G
+Fat Content g/100g,18,0.88815255,32,Summer_1_G_C-1,Spring/Summer,1,32,Berth G
+Fat Content g/100g,20,0.603721382,54,Summer_1_F_A-1,Spring/Summer,1,54,Berth C
+Fat Content g/100g,23,0.611488154,54,Summer_1_F_B-1,Spring/Summer,1,54,Berth C
+Fat Content g/100g,26,0.66074305,54,Summer_1_F_C-1,Spring/Summer,1,54,Berth C
+Fat Content g/100g,29,0.688832884,54,Summer_1_G_A-1,Spring/Summer,1,54,Berth G
+Fat Content g/100g,34,0.537091163,54,Summer_1_G_B-1,Spring/Summer,1,54,Berth G
+Fat Content g/100g,38,0.767667861,54,Summer_1_G_C-1,Spring/Summer,1,54,Berth G
+Fat Content g/100g,43,0.803317414,13,Summer_2_C_A,Spring/Summer,2,13,Berth C
+Fat Content g/100g,44,0.80847701,13,Summer_2_C_B,Spring/Summer,2,13,Berth C
+Fat Content g/100g,45,0.69463298,13,Summer_2_C_C,Spring/Summer,2,13,Berth C
+Fat Content g/100g,46,1.010558155,13,Summer_2_G_A,Spring/Summer,2,13,Berth G
+Fat Content g/100g,47,0.946672385,13,Summer_2_G_B,Spring/Summer,2,13,Berth G
+Fat Content g/100g,48,0.892218822,13,Summer_2_G_C,Spring/Summer,2,13,Berth G
+Fat Content g/100g,49,0.604953427,32,Summer_2_C_A,Spring/Summer,2,32,Berth C
+Fat Content g/100g,50,0.711860317,32,Summer_2_C_B,Spring/Summer,2,32,Berth C
+Fat Content g/100g,51,0.64749569,32,Summer_2_C_C,Spring/Summer,2,32,Berth C
+Fat Content g/100g,52,0.588123291,32,Summer_2_G_A,Spring/Summer,2,32,Berth G
+Fat Content g/100g,53,0.630034636,32,Summer_2_G_B,Spring/Summer,2,32,Berth G
+Fat Content g/100g,54,0.506583558,32,Summer_2_G_C,Spring/Summer,2,32,Berth G
+Fat Content g/100g,55,0.738084612,54,Summer_2_C_A-1,Spring/Summer,2,54,Berth C
+Fat Content g/100g,58,0.849164706,54,Summer_2_C_B-1,Spring/Summer,2,54,Berth C
+Fat Content g/100g,61,0.614878996,54,Summer_2_C_C-1,Spring/Summer,2,54,Berth C
+Fat Content g/100g,64,0.794115895,54,Summer_2_G_A-1,Spring/Summer,2,54,Berth G
+Fat Content g/100g,68,0.67228798,54,Summer_2_G_B-1,Spring/Summer,2,54,Berth G
+Fat Content g/100g,72,0.881239274,54,Summer_2_G_C-1,Spring/Summer,2,54,Berth G
+Fat Content g/100g,79,0.298038239,13,Winter_1_C_A,Autumn/Winter,1,13,Berth C
+Fat Content g/100g,80,0.159488641,13,Winter_1_C_B,Autumn/Winter,1,13,Berth C
+Fat Content g/100g,81,0.225087571,13,Winter_1_C_C,Autumn/Winter,1,13,Berth C
+Fat Content g/100g,82,0.234956947,13,Winter_1_G_A,Autumn/Winter,1,13,Berth G
+Fat Content g/100g,83,0.113786824,13,Winter_1_G_B,Autumn/Winter,1,13,Berth G
+Fat Content g/100g,84,0.067280806,13,Winter_1_G_C,Autumn/Winter,1,13,Berth G
+Fat Content g/100g,85,1.851396553,32,Winter_1_C_A,Autumn/Winter,1,32,Berth C
+Fat Content g/100g,86,1.463616967,32,Winter_1_C_B,Autumn/Winter,1,32,Berth C
+Fat Content g/100g,87,1.568998834,32,Winter_1_C_C,Autumn/Winter,1,32,Berth C
+Fat Content g/100g,88,1.556889509,32,Winter_1_G_A,Autumn/Winter,1,32,Berth G
+Fat Content g/100g,89,1.798634687,32,Winter_1_G_B,Autumn/Winter,1,32,Berth G
+Fat Content g/100g,90,1.736466804,32,Winter_1_G_C,Autumn/Winter,1,32,Berth G
+Fat Content g/100g,91,1.557038949,54,Winter_1_C_A,Autumn/Winter,1,54,Berth C
+Fat Content g/100g,92,1.632334983,54,Winter_1_C_B,Autumn/Winter,1,54,Berth C
+Fat Content g/100g,93,1.355648901,54,Winter_1_C_C,Autumn/Winter,1,54,Berth C
+Fat Content g/100g,94,1.73222204,54,Winter_1_G_A,Autumn/Winter,1,54,Berth G
+Fat Content g/100g,95,1.305232721,54,Winter_1_G_B,Autumn/Winter,1,54,Berth G
+Fat Content g/100g,96,2.119589522,54,Winter_1_G_C,Autumn/Winter,1,54,Berth G
+Fat Content g/100g,97,0.082117094,13,Winter_2_C_A,Autumn/Winter,2,13,Berth C
+Fat Content g/100g,98,0.171470329,13,Winter_2_C_B,Autumn/Winter,2,13,Berth C
+Fat Content g/100g,99,0.074694796,13,Winter_2_C_C,Autumn/Winter,2,13,Berth C
+Fat Content g/100g,100,0.201351964,13,Winter_2_G_A,Autumn/Winter,2,13,Berth G
+Fat Content g/100g,101,0.388742755,13,Winter_2_G_B,Autumn/Winter,2,13,Berth G
+Fat Content g/100g,102,0.089034893,13,Winter_2_G_C,Autumn/Winter,2,13,Berth G
+Fat Content g/100g,103,1.238592852,32,Winter_2_C_A,Autumn/Winter,2,32,Berth C
+Fat Content g/100g,104,1.025947332,32,Winter_2_C_B,Autumn/Winter,2,32,Berth C
+Fat Content g/100g,105,1.326295638,32,Winter_2_C_C,Autumn/Winter,2,32,Berth C
+Fat Content g/100g,106,1.588050885,32,Winter_2_G_A,Autumn/Winter,2,32,Berth G
+Fat Content g/100g,107,1.913195282,32,Winter_2_G_B,Autumn/Winter,2,32,Berth G
+Fat Content g/100g,108,1.840007461,32,Winter_2_G_C,Autumn/Winter,2,32,Berth G
+Fat Content g/100g,109,1.909032728,54,Winter_2_C_A,Autumn/Winter,2,54,Berth C
+Fat Content g/100g,110,1.875284311,54,Winter_2_C_B,Autumn/Winter,2,54,Berth C
+Fat Content g/100g,111,1.172610435,54,Winter_2_C_C,Autumn/Winter,2,54,Berth C
+Fat Content g/100g,112,1.510548084,54,Winter_2_G_A,Autumn/Winter,2,54,Berth G
+Fat Content g/100g,113,1.548761368,54,Winter_2_G_B,Autumn/Winter,2,54,Berth G
+Fat Content g/100g,114,1.604779921,54,Winter_2_G_C,Autumn/Winter,2,54,Berth G

@@ -1,0 +1,4 @@
+.y.,group1,group2,n1,n2,p,p.signif,p.adj,p.adj.signif
+mda_nmol_g_fw,Baseline,Nil,27,24,0.107,ns,0.107,ns
+mda_nmol_g_fw,Baseline,13,27,24,0.28,ns,0.28,ns
+mda_nmol_g_fw,Baseline,54,27,24,3.58e-4,***,3.58e-4,***

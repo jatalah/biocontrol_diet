@@ -1,0 +1,7 @@
+Age,Season,variable,n,min,max,median,iqr,mean,sd,se,ci
+13,Spring/Summer,Dry weight (g/m2),12,2.461,5.899,4.543,1.301,4.426,1.112,0.321,0.706
+13,Autumn/Winter,Dry weight (g/m2),15,0.351,1.134,0.671,0.321,0.701,0.242,0.063,0.134
+32,Spring/Summer,Dry weight (g/m2),12,13.2,24.385,18.678,5.81,19.164,3.762,1.086,2.39
+32,Autumn/Winter,Dry weight (g/m2),18,4.497,7.969,5.365,0.909,5.725,1.031,0.243,0.513
+54,Spring/Summer,Dry weight (g/m2),12,45.651,112.373,85.082,16.938,81.859,19.457,5.617,12.362
+54,Autumn/Winter,Dry weight (g/m2),18,6.888,10.227,7.663,0.8,7.965,1.017,0.24,0.506

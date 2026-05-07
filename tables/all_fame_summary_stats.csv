@@ -1,0 +1,367 @@
+﻿"Units","FAME","Season","Age","n","min","max","median","iqr","mean","sd","se","ci"
+"% FA","C12:0 lauric acid","Spring/Summer","13",12,0.44,1.1,0.75,0.18,0.753,0.178,0.051,0.113
+"% FA","C12:0 lauric acid","Autumn/Winter","13",12,0,3.3,1.7,1.1,1.633,0.982,0.283,0.624
+"% FA","C12:0 lauric acid","Spring/Summer","32",12,0.29,0.77,0.475,0.205,0.489,0.158,0.046,0.1
+"% FA","C12:0 lauric acid","Autumn/Winter","32",12,0.36,1.4,0.625,0.29,0.71,0.282,0.081,0.179
+"% FA","C12:0 lauric acid","Spring/Summer","54",12,0.27,1.3,0.535,0.427,0.67,0.361,0.104,0.23
+"% FA","C12:0 lauric acid","Autumn/Winter","54",12,0.2,0.78,0.435,0.19,0.459,0.167,0.048,0.106
+"% FA","C14:0 myristic acid","Spring/Summer","13",12,10.1,16.5,14.15,0.9,13.85,1.751,0.506,1.113
+"% FA","C14:0 myristic acid","Autumn/Winter","13",12,11.2,16,13.35,1.975,13.675,1.56,0.45,0.991
+"% FA","C14:0 myristic acid","Spring/Summer","32",12,7.2,9.4,8.65,0.625,8.592,0.613,0.177,0.389
+"% FA","C14:0 myristic acid","Autumn/Winter","32",12,13.3,18.8,16.25,4.075,16.067,2.194,0.633,1.394
+"% FA","C14:0 myristic acid","Spring/Summer","54",12,5,8,6.75,1.1,6.625,0.901,0.26,0.572
+"% FA","C14:0 myristic acid","Autumn/Winter","54",12,8.3,15.8,11.4,3.75,11.675,2.338,0.675,1.486
+"% FA","C15:0 pentadecanoic acid","Spring/Summer","13",12,0.42,0.74,0.63,0.08,0.611,0.082,0.024,0.052
+"% FA","C15:0 pentadecanoic acid","Autumn/Winter","13",12,0,1.5,0.895,0.33,0.923,0.384,0.111,0.244
+"% FA","C15:0 pentadecanoic acid","Spring/Summer","32",12,0.53,1.1,0.67,0.163,0.733,0.174,0.05,0.111
+"% FA","C15:0 pentadecanoic acid","Autumn/Winter","32",12,0.43,0.75,0.555,0.1,0.569,0.086,0.025,0.054
+"% FA","C15:0 pentadecanoic acid","Spring/Summer","54",12,0.55,1.7,1.1,0.363,1.042,0.308,0.089,0.195
+"% FA","C15:0 pentadecanoic acid","Autumn/Winter","54",12,0.45,0.77,0.56,0.068,0.569,0.082,0.024,0.052
+"% FA","C16:0 palmitic acid","Spring/Summer","13",12,23.3,34.7,32.85,4.9,31.483,3.467,1.001,2.203
+"% FA","C16:0 palmitic acid","Autumn/Winter","13",12,22.6,33,27.4,3.9,27.633,2.986,0.862,1.897
+"% FA","C16:0 palmitic acid","Spring/Summer","32",12,22.1,29.7,25.45,4.075,25.642,2.664,0.769,1.693
+"% FA","C16:0 palmitic acid","Autumn/Winter","32",12,23.7,31.1,27.4,2.4,27.117,2.014,0.581,1.279
+"% FA","C16:0 palmitic acid","Spring/Summer","54",12,14.9,25.3,18.25,4.425,19.108,3.333,0.962,2.118
+"% FA","C16:0 palmitic acid","Autumn/Winter","54",12,23.5,38.1,32.2,6,32.542,4.147,1.197,2.635
+"% FA","C16:1 palmitoleic acid","Spring/Summer","13",12,7.7,19.8,15.25,4.05,14.817,3.251,0.938,2.066
+"% FA","C16:1 palmitoleic acid","Autumn/Winter","13",12,13,22.5,16.15,3.175,16.975,2.663,0.769,1.692
+"% FA","C16:1 palmitoleic acid","Spring/Summer","32",12,8,10.9,9.15,1.725,9.375,1.025,0.296,0.651
+"% FA","C16:1 palmitoleic acid","Autumn/Winter","32",12,23.9,30.5,27.8,2.55,27.625,1.978,0.571,1.257
+"% FA","C16:1 palmitoleic acid","Spring/Summer","54",12,2.8,6.4,4.8,1.95,4.608,1.145,0.33,0.727
+"% FA","C16:1 palmitoleic acid","Autumn/Winter","54",12,22.5,33.3,26.75,6.425,26.992,3.771,1.088,2.396
+"% FA","C16:2n4 hexadecadienoic acid","Spring/Summer","13",12,0.73,1.1,0.915,0.158,0.922,0.117,0.034,0.075
+"% FA","C16:2n4 hexadecadienoic acid","Autumn/Winter","13",12,1.7,3.3,2.45,0.65,2.4,0.497,0.144,0.316
+"% FA","C16:2n4 hexadecadienoic acid","Spring/Summer","32",12,0.47,0.84,0.615,0.095,0.644,0.098,0.028,0.062
+"% FA","C16:2n4 hexadecadienoic acid","Autumn/Winter","32",12,1,1.7,1.55,0.425,1.483,0.248,0.072,0.158
+"% FA","C16:2n4 hexadecadienoic acid","Spring/Summer","54",12,0.23,0.53,0.375,0.15,0.378,0.103,0.03,0.065
+"% FA","C16:2n4 hexadecadienoic acid","Autumn/Winter","54",12,0.65,1.2,0.8,0.112,0.8,0.145,0.042,0.092
+"% FA","C17:0 heptadecanoic acid","Spring/Summer","13",12,0.24,0.7,0.345,0.13,0.373,0.143,0.041,0.091
+"% FA","C17:0 heptadecanoic acid","Autumn/Winter","13",12,0,1.1,0.25,0.552,0.318,0.363,0.105,0.23
+"% FA","C17:0 heptadecanoic acid","Spring/Summer","32",12,0.78,1.3,1.05,0.237,1.06,0.168,0.048,0.107
+"% FA","C17:0 heptadecanoic acid","Autumn/Winter","32",12,0,0.19,0.055,0.143,0.075,0.081,0.023,0.051
+"% FA","C17:0 heptadecanoic acid","Spring/Summer","54",12,0.75,2,1.65,0.425,1.497,0.389,0.112,0.247
+"% FA","C17:0 heptadecanoic acid","Autumn/Winter","54",12,0.12,0.33,0.185,0.052,0.195,0.062,0.018,0.039
+"% FA","C18:0 stearic acid","Spring/Summer","13",12,1.1,2.4,1.55,0.325,1.6,0.344,0.099,0.218
+"% FA","C18:0 stearic acid","Autumn/Winter","13",12,1.3,5,2.4,1.525,2.65,1.121,0.324,0.712
+"% FA","C18:0 stearic acid","Spring/Summer","32",12,2.6,7.2,4.9,2.025,5.308,1.454,0.42,0.924
+"% FA","C18:0 stearic acid","Autumn/Winter","32",12,0.82,1.3,1.1,0.193,1.05,0.151,0.044,0.096
+"% FA","C18:0 stearic acid","Spring/Summer","54",12,2.1,6.3,5.65,1.35,5.092,1.286,0.371,0.817
+"% FA","C18:0 stearic acid","Autumn/Winter","54",12,0.86,1.9,1.1,0.35,1.213,0.299,0.086,0.19
+"% FA","C18:1n7 vaccenic acid","Spring/Summer","13",12,0.79,2.2,1.2,0.402,1.251,0.37,0.107,0.235
+"% FA","C18:1n7 vaccenic acid","Autumn/Winter","13",12,0.93,3.2,1.7,0.75,1.819,0.702,0.203,0.446
+"% FA","C18:1n7 vaccenic acid","Spring/Summer","32",12,1.2,3.4,2.45,1,2.533,0.683,0.197,0.434
+"% FA","C18:1n7 vaccenic acid","Autumn/Winter","32",12,0.73,1.5,0.955,0.34,1.019,0.257,0.074,0.163
+"% FA","C18:1n7 vaccenic acid","Spring/Summer","54",12,1.7,4.5,3.65,1.025,3.358,0.96,0.277,0.61
+"% FA","C18:1n7 vaccenic acid","Autumn/Winter","54",12,0.76,2.2,1.05,0.395,1.168,0.407,0.117,0.259
+"% FA","C18:1n9c oleic acid","Spring/Summer","13",12,3.3,6.7,4.95,1.275,4.867,0.953,0.275,0.605
+"% FA","C18:1n9c oleic acid","Autumn/Winter","13",12,2.8,6,4.35,1.75,4.283,1.012,0.292,0.643
+"% FA","C18:1n9c oleic acid","Spring/Summer","32",12,4.8,9.1,6.25,2.5,6.567,1.468,0.424,0.933
+"% FA","C18:1n9c oleic acid","Autumn/Winter","32",12,1.3,2.3,2.1,0.325,2.008,0.294,0.085,0.187
+"% FA","C18:1n9c oleic acid","Spring/Summer","54",12,4.7,10.3,6,1.375,6.675,1.756,0.507,1.115
+"% FA","C18:1n9c oleic acid","Autumn/Winter","54",12,1.8,5.7,3.65,1.35,3.458,1.15,0.332,0.731
+"% FA","C18:1t elaidic acid","Spring/Summer","13",12,0.11,0.36,0.19,0.092,0.194,0.075,0.022,0.048
+"% FA","C18:1t elaidic acid","Autumn/Winter","13",12,0,0.66,0.12,0.345,0.184,0.218,0.063,0.139
+"% FA","C18:1t elaidic acid","Spring/Summer","32",12,0.15,0.84,0.195,0.09,0.291,0.219,0.063,0.139
+"% FA","C18:1t elaidic acid","Autumn/Winter","32",12,0.15,0.41,0.215,0.073,0.229,0.071,0.021,0.045
+"% FA","C18:1t elaidic acid","Spring/Summer","54",12,0,0.57,0.27,0.268,0.283,0.179,0.052,0.114
+"% FA","C18:1t elaidic acid","Autumn/Winter","54",12,0.17,0.42,0.245,0.11,0.256,0.077,0.022,0.049
+"% FA","C18:2n6c linoleic acid","Spring/Summer","13",12,1.9,4.5,2.55,0.875,2.725,0.744,0.215,0.472
+"% FA","C18:2n6c linoleic acid","Autumn/Winter","13",12,2.2,4.2,3.05,1.075,3.125,0.669,0.193,0.425
+"% FA","C18:2n6c linoleic acid","Spring/Summer","32",12,2.1,4.3,3.15,0.975,3.025,0.686,0.198,0.436
+"% FA","C18:2n6c linoleic acid","Autumn/Winter","32",12,1,3.4,2.6,0.85,2.508,0.719,0.208,0.457
+"% FA","C18:2n6c linoleic acid","Spring/Summer","54",12,2.2,5.7,2.9,0.75,3.15,0.911,0.263,0.579
+"% FA","C18:2n6c linoleic acid","Autumn/Winter","54",12,1.2,2.4,2.05,0.625,1.95,0.387,0.112,0.246
+"% FA","C18:3n3 alpha linolenic acid (ALA)","Spring/Summer","13",12,1.3,5.8,2.4,1.125,2.567,1.242,0.359,0.789
+"% FA","C18:3n3 alpha linolenic acid (ALA)","Autumn/Winter","13",12,0,1.5,0.2,0.733,0.407,0.497,0.143,0.316
+"% FA","C18:3n3 alpha linolenic acid (ALA)","Spring/Summer","32",12,1.6,3.2,2.3,1.075,2.342,0.617,0.178,0.392
+"% FA","C18:3n3 alpha linolenic acid (ALA)","Autumn/Winter","32",12,0.15,1.5,0.76,0.302,0.787,0.326,0.094,0.207
+"% FA","C18:3n3 alpha linolenic acid (ALA)","Spring/Summer","54",12,1.1,5.3,1.95,0.55,2.117,1.07,0.309,0.68
+"% FA","C18:3n3 alpha linolenic acid (ALA)","Autumn/Winter","54",12,0.42,2.6,1.65,1.17,1.595,0.758,0.219,0.482
+"% FA","C18:3n4 octadecatrienoic acid","Spring/Summer","13",12,0,0.33,0.065,0.2,0.106,0.121,0.035,0.077
+"% FA","C18:3n4 octadecatrienoic acid","Autumn/Winter","13",12,0,0.5,0,0,0.069,0.166,0.048,0.105
+"% FA","C18:3n4 octadecatrienoic acid","Spring/Summer","32",12,0.35,1.6,0.82,0.535,0.921,0.404,0.117,0.257
+"% FA","C18:3n4 octadecatrienoic acid","Autumn/Winter","32",12,0,0.35,0.12,0.155,0.109,0.116,0.033,0.074
+"% FA","C18:3n4 octadecatrienoic acid","Spring/Summer","54",12,0.41,2.1,1.05,0.448,1.117,0.506,0.146,0.321
+"% FA","C18:3n4 octadecatrienoic acid","Autumn/Winter","54",12,0,0.58,0.065,0.215,0.147,0.194,0.056,0.123
+"% FA","C18:3n6 gamma linolenic (GLA)","Spring/Summer","13",12,0.45,1.2,0.67,0.213,0.715,0.216,0.062,0.137
+"% FA","C18:3n6 gamma linolenic (GLA)","Autumn/Winter","13",12,0,0.72,0.5,0.592,0.382,0.295,0.085,0.188
+"% FA","C18:3n6 gamma linolenic (GLA)","Spring/Summer","32",12,0.54,1.3,0.825,0.273,0.828,0.212,0.061,0.135
+"% FA","C18:3n6 gamma linolenic (GLA)","Autumn/Winter","32",12,0.25,0.76,0.515,0.123,0.495,0.135,0.039,0.086
+"% FA","C18:3n6 gamma linolenic (GLA)","Spring/Summer","54",12,0.39,1.1,0.615,0.192,0.635,0.188,0.054,0.119
+"% FA","C18:3n6 gamma linolenic (GLA)","Autumn/Winter","54",12,0.26,0.74,0.44,0.19,0.458,0.144,0.041,0.091
+"% FA","C18:4n3 stearidonic acid (SDA)","Spring/Summer","13",12,2.1,10.5,3.25,1.325,4.025,2.328,0.672,1.479
+"% FA","C18:4n3 stearidonic acid (SDA)","Autumn/Winter","13",12,1.2,2.7,2.05,0.5,1.95,0.421,0.122,0.268
+"% FA","C18:4n3 stearidonic acid (SDA)","Spring/Summer","32",12,2.6,4.8,3.6,1.025,3.525,0.73,0.211,0.464
+"% FA","C18:4n3 stearidonic acid (SDA)","Autumn/Winter","32",12,0.88,3.7,2.75,0.6,2.615,0.75,0.216,0.476
+"% FA","C18:4n3 stearidonic acid (SDA)","Spring/Summer","54",12,3,7.5,3.85,1,4.183,1.225,0.354,0.778
+"% FA","C18:4n3 stearidonic acid (SDA)","Autumn/Winter","54",12,1.1,3.6,2.5,0.75,2.508,0.773,0.223,0.491
+"% FA","C20:0 arachidic acid","Spring/Summer","13",12,0.3,0.7,0.475,0.13,0.485,0.124,0.036,0.078
+"% FA","C20:0 arachidic acid","Autumn/Winter","13",12,0,0.69,0.16,0.438,0.235,0.264,0.076,0.168
+"% FA","C20:0 arachidic acid","Spring/Summer","32",12,0.4,0.8,0.63,0.205,0.616,0.133,0.038,0.085
+"% FA","C20:0 arachidic acid","Autumn/Winter","32",12,0.12,0.19,0.145,0.04,0.15,0.026,0.007,0.016
+"% FA","C20:0 arachidic acid","Spring/Summer","54",12,0.74,1.5,0.94,0.385,1.046,0.261,0.075,0.166
+"% FA","C20:0 arachidic acid","Autumn/Winter","54",12,0.12,0.54,0.25,0.077,0.25,0.105,0.03,0.067
+"% FA","C20:1 gadoleic acid","Spring/Summer","13",12,0,0,0,0,0,0,0,0
+"% FA","C20:1 gadoleic acid","Autumn/Winter","13",12,0,0,0,0,0,0,0,0
+"% FA","C20:1 gadoleic acid","Spring/Summer","32",12,0,0.35,0.215,0.083,0.193,0.086,0.025,0.055
+"% FA","C20:1 gadoleic acid","Autumn/Winter","32",12,0,0.25,0,0,0.031,0.077,0.022,0.049
+"% FA","C20:1 gadoleic acid","Spring/Summer","54",12,0,0.52,0.345,0.073,0.322,0.129,0.037,0.082
+"% FA","C20:1 gadoleic acid","Autumn/Winter","54",12,0,0.3,0.16,0.225,0.128,0.12,0.035,0.076
+"% FA","C20:3n6 cis-8,11,14-eicosatrienoic acid","Spring/Summer","13",12,0.13,0.92,0.195,0.155,0.261,0.219,0.063,0.139
+"% FA","C20:3n6 cis-8,11,14-eicosatrienoic acid","Autumn/Winter","13",12,0,0,0,0,0,0,0,0
+"% FA","C20:3n6 cis-8,11,14-eicosatrienoic acid","Spring/Summer","32",12,0.22,0.51,0.335,0.155,0.344,0.099,0.029,0.063
+"% FA","C20:3n6 cis-8,11,14-eicosatrienoic acid","Autumn/Winter","32",12,0,0.24,0,0.12,0.065,0.087,0.025,0.055
+"% FA","C20:3n6 cis-8,11,14-eicosatrienoic acid","Spring/Summer","54",12,0.27,0.44,0.3,0.042,0.312,0.048,0.014,0.031
+"% FA","C20:3n6 cis-8,11,14-eicosatrienoic acid","Autumn/Winter","54",12,0,0.19,0,0.14,0.062,0.078,0.022,0.049
+"% FA","C20:4n3 eicosatetraenoic acid","Spring/Summer","13",12,0.16,0.49,0.23,0.11,0.265,0.1,0.029,0.064
+"% FA","C20:4n3 eicosatetraenoic acid","Autumn/Winter","13",12,0,0,0,0,0,0,0,0
+"% FA","C20:4n3 eicosatetraenoic acid","Spring/Summer","32",12,0.25,0.46,0.35,0.087,0.334,0.063,0.018,0.04
+"% FA","C20:4n3 eicosatetraenoic acid","Autumn/Winter","32",12,0,0.25,0.16,0.12,0.135,0.091,0.026,0.058
+"% FA","C20:4n3 eicosatetraenoic acid","Spring/Summer","54",12,0.35,0.66,0.485,0.167,0.492,0.106,0.031,0.068
+"% FA","C20:4n3 eicosatetraenoic acid","Autumn/Winter","54",12,0,0.23,0.19,0.065,0.168,0.065,0.019,0.041
+"% FA","C20:4n6 arachidonic acid (AA)","Spring/Summer","13",12,0.92,4,1.5,0.625,1.76,0.864,0.249,0.549
+"% FA","C20:4n6 arachidonic acid (AA)","Autumn/Winter","13",12,0,0.63,0,0.465,0.202,0.258,0.075,0.164
+"% FA","C20:4n6 arachidonic acid (AA)","Spring/Summer","32",12,1.8,6.6,2.75,0.75,2.992,1.239,0.358,0.787
+"% FA","C20:4n6 arachidonic acid (AA)","Autumn/Winter","32",12,0.15,0.8,0.505,0.285,0.506,0.211,0.061,0.134
+"% FA","C20:4n6 arachidonic acid (AA)","Spring/Summer","54",12,2.2,7.4,3.7,1.575,4.108,1.577,0.455,1.002
+"% FA","C20:4n6 arachidonic acid (AA)","Autumn/Winter","54",12,0.28,1.3,0.79,0.38,0.792,0.312,0.09,0.198
+"% FA","C20:5n3 eicosapentaenoic acid","Spring/Summer","13",12,2.3,8.1,4.35,1.525,4.817,1.737,0.501,1.103
+"% FA","C20:5n3 eicosapentaenoic acid","Autumn/Winter","13",12,1.7,5.3,3.7,0.95,3.558,0.939,0.271,0.597
+"% FA","C20:5n3 eicosapentaenoic acid","Spring/Summer","32",12,5.7,11.1,6.4,1.125,6.908,1.529,0.441,0.972
+"% FA","C20:5n3 eicosapentaenoic acid","Autumn/Winter","32",12,1.2,6.3,4.15,1.825,4.2,1.571,0.454,0.998
+"% FA","C20:5n3 eicosapentaenoic acid","Spring/Summer","54",12,8,12.1,10.6,1.875,10.35,1.299,0.375,0.826
+"% FA","C20:5n3 eicosapentaenoic acid","Autumn/Winter","54",12,1.9,6.2,3.75,1.65,4.042,1.337,0.386,0.85
+"% FA","C22:0 behenic acid","Spring/Summer","13",12,0.31,0.74,0.435,0.118,0.454,0.119,0.034,0.076
+"% FA","C22:0 behenic acid","Autumn/Winter","13",12,0,0.63,0.13,0.318,0.197,0.228,0.066,0.145
+"% FA","C22:0 behenic acid","Spring/Summer","32",12,0.31,0.57,0.43,0.052,0.423,0.065,0.019,0.042
+"% FA","C22:0 behenic acid","Autumn/Winter","32",12,0,0.16,0.115,0.02,0.112,0.039,0.011,0.025
+"% FA","C22:0 behenic acid","Spring/Summer","54",12,0.44,0.68,0.585,0.11,0.572,0.081,0.024,0.052
+"% FA","C22:0 behenic acid","Autumn/Winter","54",12,0,0.17,0.12,0.023,0.109,0.054,0.016,0.034
+"% FA","C22:5n3 docosapentaenoic acid (DPA)","Spring/Summer","13",12,0.14,0.24,0.18,0.02,0.185,0.029,0.008,0.018
+"% FA","C22:5n3 docosapentaenoic acid (DPA)","Autumn/Winter","13",12,0,5.6,0.27,3.3,1.703,2.142,0.618,1.361
+"% FA","C22:5n3 docosapentaenoic acid (DPA)","Spring/Summer","32",12,0.14,0.32,0.24,0.055,0.229,0.05,0.014,0.032
+"% FA","C22:5n3 docosapentaenoic acid (DPA)","Autumn/Winter","32",12,0,0.16,0.13,0.07,0.104,0.065,0.019,0.041
+"% FA","C22:5n3 docosapentaenoic acid (DPA)","Spring/Summer","54",12,0.17,1.1,0.645,0.27,0.672,0.272,0.078,0.173
+"% FA","C22:5n3 docosapentaenoic acid (DPA)","Autumn/Winter","54",12,0,0.16,0.06,0.132,0.068,0.071,0.021,0.045
+"% FA","C22:6n3 docosahexaenoic acid (DHA)","Spring/Summer","13",12,0.22,1.4,0.715,0.682,0.794,0.376,0.108,0.239
+"% FA","C22:6n3 docosahexaenoic acid (DHA)","Autumn/Winter","13",12,0,0.92,0,0.415,0.221,0.303,0.088,0.193
+"% FA","C22:6n3 docosahexaenoic acid (DHA)","Spring/Summer","32",12,0.67,3.5,2.1,1.3,2.006,0.836,0.241,0.531
+"% FA","C22:6n3 docosahexaenoic acid (DHA)","Autumn/Winter","32",12,0.1,0.76,0.44,0.285,0.432,0.193,0.056,0.123
+"% FA","C22:6n3 docosahexaenoic acid (DHA)","Spring/Summer","54",12,2,8.8,5.55,3.4,5.508,2.273,0.656,1.444
+"% FA","C22:6n3 docosahexaenoic acid (DHA)","Autumn/Winter","54",12,0,1.3,0.255,0.3,0.386,0.336,0.097,0.214
+"% FA","C24:0 lignoceric acid","Spring/Summer","13",12,0.48,0.94,0.77,0.22,0.77,0.145,0.042,0.092
+"% FA","C24:0 lignoceric acid","Autumn/Winter","13",12,0.92,1.9,1.15,0.462,1.255,0.329,0.095,0.209
+"% FA","C24:0 lignoceric acid","Spring/Summer","32",12,0.35,0.68,0.45,0.072,0.46,0.089,0.026,0.056
+"% FA","C24:0 lignoceric acid","Autumn/Winter","32",12,0.36,0.51,0.43,0.07,0.429,0.048,0.014,0.031
+"% FA","C24:0 lignoceric acid","Spring/Summer","54",12,0.23,0.57,0.36,0.175,0.378,0.119,0.034,0.076
+"% FA","C24:0 lignoceric acid","Autumn/Winter","54",12,0.21,0.53,0.415,0.167,0.419,0.105,0.03,0.067
+"% FA","Fat Content g/100g","Spring/Summer","13",12,0.625,1.011,0.825,0.099,0.822,0.107,0.031,0.068
+"% FA","Fat Content g/100g","Autumn/Winter","13",12,0.067,0.389,0.165,0.14,0.176,0.1,0.029,0.063
+"% FA","Fat Content g/100g","Spring/Summer","32",12,0.507,1.193,0.77,0.273,0.793,0.216,0.062,0.137
+"% FA","Fat Content g/100g","Autumn/Winter","32",12,1.026,1.913,1.579,0.38,1.576,0.274,0.079,0.174
+"% FA","Fat Content g/100g","Spring/Summer","54",12,0.537,0.881,0.681,0.16,0.702,0.106,0.031,0.067
+"% FA","Fat Content g/100g","Autumn/Winter","54",12,1.173,2.12,1.581,0.296,1.61,0.27,0.078,0.171
+"% FA","∑ poly-unsaturated fatty acids 3 PUFA","Spring/Summer","13",12,12.32,36.49,16.88,5.18,19.035,6.847,1.977,4.35
+"% FA","∑ poly-unsaturated fatty acids 3 PUFA","Autumn/Winter","13",12,8.64,17.08,14.65,3.987,13.948,2.725,0.787,1.732
+"% FA","∑ poly-unsaturated fatty acids 3 PUFA","Spring/Summer","32",12,18.59,32.37,22.825,4.91,23.177,3.989,1.152,2.535
+"% FA","∑ poly-unsaturated fatty acids 3 PUFA","Autumn/Winter","32",12,4.73,18.98,13.805,4.278,13.331,4.102,1.184,2.606
+"% FA","∑ poly-unsaturated fatty acids 3 PUFA","Spring/Summer","54",12,26.5,36.71,32.35,4.347,31.906,3.192,0.921,2.028
+"% FA","∑ poly-unsaturated fatty acids 3 PUFA","Autumn/Winter","54",12,6.28,16.65,13.5,4.592,12.828,3.37,0.973,2.141
+"% FA","∑Mono-unsaturated fatty acids MUFA","Spring/Summer","13",12,15.53,24.43,21.325,2.323,21.128,2.512,0.725,1.596
+"% FA","∑Mono-unsaturated fatty acids MUFA","Autumn/Winter","13",12,20.1,27.4,23.16,2.072,23.262,2.326,0.671,1.478
+"% FA","∑Mono-unsaturated fatty acids MUFA","Spring/Summer","32",12,17.44,21.2,18.93,1.512,18.959,1.19,0.344,0.756
+"% FA","∑Mono-unsaturated fatty acids MUFA","Autumn/Winter","32",12,27.21,33.58,31.155,3.262,30.913,2.007,0.579,1.275
+"% FA","∑Mono-unsaturated fatty acids MUFA","Spring/Summer","54",12,13.27,16.56,15.575,1.808,15.248,1.097,0.317,0.697
+"% FA","∑Mono-unsaturated fatty acids MUFA","Autumn/Winter","54",12,28.24,36.6,31.965,4.445,32.001,2.823,0.815,1.794
+"% FA","∑Saturated fatty acids SFA","Spring/Summer","13",12,38.44,55.8,51.895,4.85,50.379,4.779,1.38,3.036
+"% FA","∑Saturated fatty acids SFA","Autumn/Winter","13",12,44.08,56.26,47.64,2.757,48.519,3.92,1.132,2.491
+"% FA","∑Saturated fatty acids SFA","Spring/Summer","32",12,40.57,47.2,42.47,3.285,43.323,2.266,0.654,1.44
+"% FA","∑Saturated fatty acids SFA","Autumn/Winter","32",12,43.26,52.85,45.16,3.21,46.279,2.862,0.826,1.818
+"% FA","∑Saturated fatty acids SFA","Spring/Summer","54",12,32.26,39.11,36.815,4.087,36.03,2.302,0.664,1.462
+"% FA","∑Saturated fatty acids SFA","Autumn/Winter","54",12,41.82,53.81,47.43,5.03,47.432,3.463,1,2.2
+"% FA","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Spring/Summer","13",12,7.87,25.59,11.08,4.637,12.652,5.073,1.465,3.223
+"% FA","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Autumn/Winter","13",12,3.46,10.5,7.52,2.818,7.839,2.224,0.642,1.413
+"% FA","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Spring/Summer","32",12,12.84,19.09,15.095,3.108,15.344,2.259,0.652,1.435
+"% FA","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Autumn/Winter","32",12,2.33,12.14,8.815,2.86,8.273,2.804,0.809,1.782
+"% FA","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Spring/Summer","54",12,19.79,27.32,22.61,4.658,23.323,2.733,0.789,1.737
+"% FA","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Autumn/Winter","54",12,3.67,11.87,9.135,3.438,8.766,2.626,0.758,1.668
+"mg/100g","C12:0 lauric acid","Spring/Summer","13",12,2.201,7.717,4.792,1.385,4.975,1.352,0.39,0.859
+"mg/100g","C12:0 lauric acid","Autumn/Winter","13",12,0,4.53,2.094,3.075,2.325,1.698,0.49,1.079
+"mg/100g","C12:0 lauric acid","Spring/Summer","32",12,2.137,4.869,2.589,0.862,2.963,0.854,0.246,0.542
+"mg/100g","C12:0 lauric acid","Autumn/Winter","32",12,3.529,20.736,8.443,5.302,9.272,4.781,1.38,3.038
+"mg/100g","C12:0 lauric acid","Spring/Summer","54",12,1.452,8.831,2.883,3.428,3.987,2.708,0.782,1.72
+"mg/100g","C12:0 lauric acid","Autumn/Winter","54",12,3,8.221,5.791,2.503,5.763,1.788,0.516,1.136
+"mg/100g","C14:0 myristic acid","Spring/Summer","13",12,70.021,124.961,92.803,23.92,91.204,17.744,5.122,11.274
+"mg/100g","C14:0 myristic acid","Autumn/Winter","13",12,6.62,49.759,17.661,13.978,19.639,12.69,3.663,8.063
+"mg/100g","C14:0 myristic acid","Spring/Summer","32",12,34.853,86.886,55.817,25.119,54.844,16.544,4.776,10.511
+"mg/100g","C14:0 myristic acid","Autumn/Winter","32",12,152.661,287.745,193.894,50.736,201.384,41.553,11.995,26.402
+"mg/100g","C14:0 myristic acid","Spring/Summer","54",12,28.038,56.399,37.041,6.526,37.127,7.642,2.206,4.855
+"mg/100g","C14:0 myristic acid","Autumn/Winter","54",12,82.552,235.698,148.182,23.647,149.743,36.221,10.456,23.014
+"mg/100g","C15:0 pentadecanoic acid","Spring/Summer","13",12,2.946,5.255,3.83,0.973,4.019,0.782,0.226,0.497
+"mg/100g","C15:0 pentadecanoic acid","Autumn/Winter","13",12,0,2.519,1.175,0.691,1.213,0.628,0.181,0.399
+"mg/100g","C15:0 pentadecanoic acid","Spring/Summer","32",12,2.594,7.148,4.818,1.638,4.564,1.286,0.371,0.817
+"mg/100g","C15:0 pentadecanoic acid","Autumn/Winter","32",12,4.596,9.862,6.929,2.365,7.193,1.767,0.51,1.123
+"mg/100g","C15:0 pentadecanoic acid","Spring/Summer","54",12,3.736,9.143,5.511,2.05,5.729,1.524,0.44,0.968
+"mg/100g","C15:0 pentadecanoic acid","Autumn/Winter","54",12,5.347,9.157,7.135,1.099,7.234,0.964,0.278,0.613
+"mg/100g","C16:0 palmitic acid","Spring/Summer","13",12,163.455,262.796,197.131,50.747,206.954,35.533,10.258,22.577
+"mg/100g","C16:0 palmitic acid","Autumn/Winter","13",12,15.417,73.395,35.299,31.147,37.984,20.232,5.84,12.855
+"mg/100g","C16:0 palmitic acid","Spring/Summer","32",12,97.669,253.976,170.053,79.46,164.394,52.536,15.166,33.38
+"mg/100g","C16:0 palmitic acid","Autumn/Winter","32",12,229.812,410.269,345.182,84.948,341.179,60.671,17.514,38.549
+"mg/100g","C16:0 palmitic acid","Spring/Summer","54",12,66.599,172.723,98.939,31.834,109.132,34.142,9.856,21.693
+"mg/100g","C16:0 palmitic acid","Autumn/Winter","54",12,292.723,525.366,423.822,144.687,418.35,82.986,23.956,52.727
+"mg/100g","C16:1 palmitoleic acid","Spring/Summer","13",12,54.017,128.063,97.483,38.122,97.049,23.45,6.769,14.899
+"mg/100g","C16:1 palmitoleic acid","Autumn/Winter","13",12,7.768,56.912,22.755,18.086,24.438,15.41,4.449,9.791
+"mg/100g","C16:1 palmitoleic acid","Spring/Summer","32",12,41.44,89.091,54.987,29.275,59.383,16.985,4.903,10.792
+"mg/100g","C16:1 palmitoleic acid","Autumn/Winter","32",12,239.661,416.194,355.924,88.57,346.82,57.759,16.674,36.698
+"mg/100g","C16:1 palmitoleic acid","Spring/Summer","54",12,17.709,31.321,26.567,5.16,25.261,4.632,1.337,2.943
+"mg/100g","C16:1 palmitoleic acid","Autumn/Winter","54",12,211.07,564.659,324.928,111.013,350.806,93.22,26.91,59.229
+"mg/100g","C16:2n4 hexadecadienoic acid","Spring/Summer","13",12,4.251,7.21,6.227,0.639,6.035,0.871,0.251,0.553
+"mg/100g","C16:2n4 hexadecadienoic acid","Autumn/Winter","13",12,1.117,5.909,2.926,3.106,3.262,1.68,0.485,1.067
+"mg/100g","C16:2n4 hexadecadienoic acid","Spring/Summer","32",12,2.435,6.949,3.758,1.531,4.095,1.331,0.384,0.845
+"mg/100g","C16:2n4 hexadecadienoic acid","Autumn/Winter","32",12,9.849,26.019,20.001,9.296,19.033,5.73,1.654,3.641
+"mg/100g","C16:2n4 hexadecadienoic acid","Spring/Summer","54",12,1.398,2.544,2.177,0.475,2.059,0.371,0.107,0.236
+"mg/100g","C16:2n4 hexadecadienoic acid","Autumn/Winter","54",12,6.379,14.948,10.018,2.442,10.303,2.445,0.706,1.553
+"mg/100g","C17:0 heptadecanoic acid","Spring/Summer","13",12,1.432,4.911,2.147,1.057,2.471,1.056,0.305,0.671
+"mg/100g","C17:0 heptadecanoic acid","Autumn/Winter","13",12,0,1.165,0.584,0.674,0.418,0.399,0.115,0.253
+"mg/100g","C17:0 heptadecanoic acid","Spring/Summer","32",12,3.931,9.8,6.275,2.429,6.66,1.852,0.535,1.177
+"mg/100g","C17:0 heptadecanoic acid","Autumn/Winter","32",12,0,2.366,0.584,1.956,0.947,1.024,0.296,0.651
+"mg/100g","C17:0 heptadecanoic acid","Spring/Summer","54",12,5.287,11.219,8.235,2.325,8.17,1.666,0.481,1.059
+"mg/100g","C17:0 heptadecanoic acid","Autumn/Winter","54",12,1.541,4.111,2.235,0.705,2.471,0.768,0.222,0.488
+"mg/100g","C18:0 stearic acid","Spring/Summer","13",12,7.502,15.424,10.581,3.129,10.469,2.349,0.678,1.492
+"mg/100g","C18:0 stearic acid","Autumn/Winter","13",12,1.708,7.143,2.853,0.99,3.175,1.428,0.412,0.907
+"mg/100g","C18:0 stearic acid","Spring/Summer","32",12,24.682,43.342,31.735,10.361,31.967,6.641,1.917,4.22
+"mg/100g","C18:0 stearic acid","Autumn/Winter","32",12,9.019,16.292,13.685,1.839,13.106,2.259,0.652,1.435
+"mg/100g","C18:0 stearic acid","Spring/Summer","54",12,14.805,33.657,28.695,3.425,27.7,5.107,1.474,3.245
+"mg/100g","C18:0 stearic acid","Autumn/Winter","54",12,12.084,23.667,13.965,2.711,15.353,3.471,1.002,2.206
+"mg/100g","C18:1n7 vaccenic acid","Spring/Summer","13",12,5.178,12.6,7.447,2.469,8.111,2.078,0.6,1.32
+"mg/100g","C18:1n7 vaccenic acid","Autumn/Winter","13",12,1.195,3.732,2.076,0.406,2.16,0.725,0.209,0.461
+"mg/100g","C18:1n7 vaccenic acid","Spring/Summer","32",12,10.132,25.056,15.759,4.11,15.372,3.858,1.114,2.452
+"mg/100g","C18:1n7 vaccenic acid","Autumn/Winter","32",12,7.729,19.255,12.254,4.17,12.791,3.703,1.069,2.353
+"mg/100g","C18:1n7 vaccenic acid","Spring/Summer","54",12,11.549,24.202,18.956,4.627,18.243,4.05,1.169,2.573
+"mg/100g","C18:1n7 vaccenic acid","Autumn/Winter","54",12,10.036,27.404,13.901,5.838,14.839,5.073,1.464,3.223
+"mg/100g","C18:1n9c oleic acid","Spring/Summer","13",12,19.506,47.002,33.693,11.209,32.301,8.516,2.458,5.411
+"mg/100g","C18:1n9c oleic acid","Autumn/Winter","13",12,2.691,9.774,4.81,3.652,5.551,2.591,0.748,1.646
+"mg/100g","C18:1n9c oleic acid","Spring/Summer","32",12,20.669,86.886,41.823,27.257,43.097,19.276,5.565,12.248
+"mg/100g","C18:1n9c oleic acid","Autumn/Winter","32",12,16.516,31.103,27.272,7.454,25.193,5.175,1.494,3.288
+"mg/100g","C18:1n9c oleic acid","Spring/Summer","54",12,20.195,72.614,31.648,14.434,38.62,16.124,4.655,10.245
+"mg/100g","C18:1n9c oleic acid","Autumn/Winter","54",12,18.795,59.562,46.36,20.55,43.968,13.449,3.882,8.545
+"mg/100g","C18:1t elaidic acid","Spring/Summer","13",12,0.63,2.726,1.245,0.565,1.309,0.634,0.183,0.403
+"mg/100g","C18:1t elaidic acid","Autumn/Winter","13",12,0,1.12,0.159,0.62,0.33,0.395,0.114,0.251
+"mg/100g","C18:1t elaidic acid","Spring/Summer","32",12,0.648,5.968,1.108,0.994,1.995,1.852,0.535,1.176
+"mg/100g","C18:1t elaidic acid","Autumn/Winter","32",12,1.883,5.209,2.538,0.697,2.838,0.876,0.253,0.557
+"mg/100g","C18:1t elaidic acid","Spring/Summer","54",12,0,2.764,1.457,1.298,1.493,0.869,0.251,0.552
+"mg/100g","C18:1t elaidic acid","Autumn/Winter","54",12,2.22,5.204,3.144,0.782,3.211,0.81,0.234,0.515
+"mg/100g","C18:2n6c linoleic acid","Spring/Summer","13",12,11.67,31.569,17.203,5.146,17.921,5.513,1.592,3.503
+"mg/100g","C18:2n6c linoleic acid","Autumn/Winter","13",12,1.507,7.464,3.869,4.714,4.323,2.369,0.684,1.505
+"mg/100g","C18:2n6c linoleic acid","Spring/Summer","32",12,9.321,41.056,19.347,10.018,19.835,8.953,2.584,5.688
+"mg/100g","C18:2n6c linoleic acid","Autumn/Winter","32",12,12.704,47.232,36.233,15.408,32.294,12.082,3.488,7.676
+"mg/100g","C18:2n6c linoleic acid","Spring/Summer","54",12,9.453,38.722,15.43,6.008,18.189,7.852,2.267,4.989
+"mg/100g","C18:2n6c linoleic acid","Autumn/Winter","54",12,12.53,35.126,25.556,8.202,25.153,6.379,1.842,4.053
+"mg/100g","C18:3n3 alpha linolenic acid (ALA)","Spring/Summer","13",12,8.638,40.688,15.171,6.772,16.958,8.89,2.566,5.648
+"mg/100g","C18:3n3 alpha linolenic acid (ALA)","Autumn/Winter","13",12,0,2.701,0.255,1.295,0.734,0.909,0.262,0.578
+"mg/100g","C18:3n3 alpha linolenic acid (ALA)","Spring/Summer","32",12,6.89,21.225,16.286,8.162,14.837,5.045,1.456,3.205
+"mg/100g","C18:3n3 alpha linolenic acid (ALA)","Autumn/Winter","32",12,1.906,15.916,10.455,3.311,9.87,3.979,1.149,2.528
+"mg/100g","C18:3n3 alpha linolenic acid (ALA)","Spring/Summer","54",12,4.726,36.005,10.877,3.96,12.299,7.926,2.288,5.036
+"mg/100g","C18:3n3 alpha linolenic acid (ALA)","Autumn/Winter","54",12,4.386,38.181,22.186,12.428,20.487,10.221,2.951,6.494
+"mg/100g","C18:3n4 octadecatrienoic acid","Spring/Summer","13",12,0,2.121,0.492,1.255,0.716,0.809,0.234,0.514
+"mg/100g","C18:3n4 octadecatrienoic acid","Autumn/Winter","13",12,0,0.94,0,0,0.113,0.287,0.083,0.182
+"mg/100g","C18:3n4 octadecatrienoic acid","Spring/Summer","32",12,3.342,8.064,4.724,3.009,5.372,1.64,0.474,1.042
+"mg/100g","C18:3n4 octadecatrienoic acid","Autumn/Winter","32",12,0,4.098,1.329,2.251,1.39,1.449,0.418,0.921
+"mg/100g","C18:3n4 octadecatrienoic acid","Spring/Summer","54",12,2.785,11.294,5.396,3.151,6.037,2.461,0.71,1.564
+"mg/100g","C18:3n4 octadecatrienoic acid","Autumn/Winter","54",12,0,7.225,0.783,3.157,1.862,2.43,0.701,1.544
+"mg/100g","C18:3n6 gamma linolenic (GLA)","Spring/Summer","13",12,2.89,8.418,4.178,1.653,4.718,1.623,0.468,1.031
+"mg/100g","C18:3n6 gamma linolenic (GLA)","Autumn/Winter","13",12,0,1.648,0.8,1.037,0.675,0.577,0.167,0.367
+"mg/100g","C18:3n6 gamma linolenic (GLA)","Spring/Summer","32",12,2.541,12.412,4.984,3.239,5.554,2.922,0.844,1.857
+"mg/100g","C18:3n6 gamma linolenic (GLA)","Autumn/Winter","32",12,2.544,10.558,6.995,3.671,6.39,2.407,0.695,1.529
+"mg/100g","C18:3n6 gamma linolenic (GLA)","Spring/Summer","54",12,2.098,7.473,3.171,1.58,3.652,1.563,0.451,0.993
+"mg/100g","C18:3n6 gamma linolenic (GLA)","Autumn/Winter","54",12,2.715,10.255,5.489,3.939,6.056,2.562,0.74,1.628
+"mg/100g","C18:4n3 stearidonic acid (SDA)","Spring/Summer","13",12,13.582,73.66,22.045,13.729,26.871,16.911,4.882,10.745
+"mg/100g","C18:4n3 stearidonic acid (SDA)","Autumn/Winter","13",12,0.915,6.531,2.364,2.54,2.808,1.819,0.525,1.156
+"mg/100g","C18:4n3 stearidonic acid (SDA)","Spring/Summer","32",12,10.942,45.83,21.434,10.901,23.06,10.062,2.905,6.393
+"mg/100g","C18:4n3 stearidonic acid (SDA)","Autumn/Winter","32",12,11.18,51.399,38.561,13.052,33.533,12.365,3.569,7.856
+"mg/100g","C18:4n3 stearidonic acid (SDA)","Spring/Summer","54",12,12.89,50.95,20.127,10.57,24.21,10.625,3.067,6.751
+"mg/100g","C18:4n3 stearidonic acid (SDA)","Autumn/Winter","54",12,11.486,54.008,30.676,16.734,32.788,12.571,3.629,7.987
+"mg/100g","C20:0 arachidic acid","Spring/Summer","13",12,1.667,4.77,3.334,1.269,3.196,0.894,0.258,0.568
+"mg/100g","C20:0 arachidic acid","Autumn/Winter","13",12,0,1.071,0.268,0.793,0.409,0.451,0.13,0.287
+"mg/100g","C20:0 arachidic acid","Spring/Summer","32",12,2.067,5.895,3.793,0.955,3.809,0.963,0.278,0.612
+"mg/100g","C20:0 arachidic acid","Autumn/Winter","32",12,1.288,2.37,1.952,0.741,1.879,0.403,0.116,0.256
+"mg/100g","C20:0 arachidic acid","Spring/Summer","54",12,4.256,8.067,5.716,1.829,5.792,1.366,0.394,0.868
+"mg/100g","C20:0 arachidic acid","Autumn/Winter","54",12,1.775,5.066,3.095,1.008,3.102,0.935,0.27,0.594
+"mg/100g","C20:1 gadoleic acid","Spring/Summer","13",12,0,0,0,0,0,0,0,0
+"mg/100g","C20:1 gadoleic acid","Autumn/Winter","13",12,0,0,0,0,0,0,0,0
+"mg/100g","C20:1 gadoleic acid","Spring/Summer","32",12,0,2.487,1.22,0.856,1.219,0.701,0.202,0.446
+"mg/100g","C20:1 gadoleic acid","Autumn/Winter","32",12,0,2.653,0,0,0.303,0.792,0.229,0.503
+"mg/100g","C20:1 gadoleic acid","Spring/Summer","54",12,0,2.474,1.932,0.627,1.774,0.685,0.198,0.435
+"mg/100g","C20:1 gadoleic acid","Autumn/Winter","54",12,0,3.665,1.81,2.826,1.611,1.532,0.442,0.973
+"mg/100g","C20:3n6 cis-8,11,14-eicosatrienoic acid","Spring/Summer","13",12,0.722,6.113,1.143,1,1.725,1.472,0.425,0.935
+"mg/100g","C20:3n6 cis-8,11,14-eicosatrienoic acid","Autumn/Winter","13",12,0,0,0,0,0,0,0,0
+"mg/100g","C20:3n6 cis-8,11,14-eicosatrienoic acid","Spring/Summer","32",12,1.035,4.488,1.986,1.449,2.262,1.103,0.318,0.701
+"mg/100g","C20:3n6 cis-8,11,14-eicosatrienoic acid","Autumn/Winter","32",12,0,3.555,0,1.561,0.899,1.232,0.356,0.782
+"mg/100g","C20:3n6 cis-8,11,14-eicosatrienoic acid","Spring/Summer","54",12,1.289,3.102,1.637,0.536,1.775,0.508,0.147,0.323
+"mg/100g","C20:3n6 cis-8,11,14-eicosatrienoic acid","Autumn/Winter","54",12,0,2.367,0,1.894,0.851,1.06,0.306,0.673
+"mg/100g","C20:4n3 eicosatetraenoic acid","Spring/Summer","13",12,0.945,3.437,1.521,0.642,1.749,0.725,0.209,0.461
+"mg/100g","C20:4n3 eicosatetraenoic acid","Autumn/Winter","13",12,0,0,0,0,0,0,0,0
+"mg/100g","C20:4n3 eicosatetraenoic acid","Spring/Summer","32",12,1.013,3.628,2.023,1.344,2.193,0.916,0.265,0.582
+"mg/100g","C20:4n3 eicosatetraenoic acid","Autumn/Winter","32",12,0,3.138,2.031,1.487,1.79,1.194,0.345,0.759
+"mg/100g","C20:4n3 eicosatetraenoic acid","Spring/Summer","54",12,1.69,4.193,2.801,1.154,2.77,0.746,0.215,0.474
+"mg/100g","C20:4n3 eicosatetraenoic acid","Autumn/Winter","54",12,0,3.451,2.447,0.891,2.202,0.945,0.273,0.601
+"mg/100g","C20:4n6 arachidonic acid (AA)","Spring/Summer","13",12,5.95,28.061,9.816,4.918,11.677,6.26,1.807,3.978
+"mg/100g","C20:4n6 arachidonic acid (AA)","Autumn/Winter","13",12,0,1.216,0,0.968,0.407,0.524,0.151,0.333
+"mg/100g","C20:4n6 arachidonic acid (AA)","Spring/Summer","32",12,8.469,63.017,16.713,10.924,20.502,14.885,4.297,9.457
+"mg/100g","C20:4n6 arachidonic acid (AA)","Autumn/Winter","32",12,1.888,11.113,6.56,5.07,6.558,3.169,0.915,2.013
+"mg/100g","C20:4n6 arachidonic acid (AA)","Spring/Summer","54",12,12.789,52.169,18.115,14.492,23.927,12.58,3.632,7.993
+"mg/100g","C20:4n6 arachidonic acid (AA)","Autumn/Winter","54",12,2.924,19.503,9.126,5.355,10.218,4.47,1.29,2.84
+"mg/100g","C20:5n3 eicosapentaenoic acid","Spring/Summer","13",12,13.173,56.824,29.608,16.228,31.952,12.815,3.699,8.143
+"mg/100g","C20:5n3 eicosapentaenoic acid","Autumn/Winter","13",12,1.548,12.44,4.281,5.607,5.141,3.368,0.972,2.14
+"mg/100g","C20:5n3 eicosapentaenoic acid","Spring/Summer","32",12,25.937,105.982,37.03,19.871,45.546,22.969,6.631,14.594
+"mg/100g","C20:5n3 eicosapentaenoic acid","Autumn/Winter","32",12,15.245,87.518,60.081,33.494,54.589,24.804,7.16,15.759
+"mg/100g","C20:5n3 eicosapentaenoic acid","Spring/Summer","54",12,38.638,85.304,58.454,13.379,58.333,12.999,3.752,8.259
+"mg/100g","C20:5n3 eicosapentaenoic acid","Autumn/Winter","54",12,19.84,82.513,54.479,29.937,53.009,21.239,6.131,13.495
+"mg/100g","C22:0 behenic acid","Spring/Summer","13",12,1.723,4.238,2.961,0.938,2.975,0.762,0.22,0.484
+"mg/100g","C22:0 behenic acid","Autumn/Winter","13",12,0,0.959,0.236,0.609,0.338,0.374,0.108,0.238
+"mg/100g","C22:0 behenic acid","Spring/Summer","32",12,1.378,3.475,2.906,1.011,2.65,0.634,0.183,0.403
+"mg/100g","C22:0 behenic acid","Autumn/Winter","32",12,0,1.837,1.601,0.276,1.428,0.492,0.142,0.313
+"mg/100g","C22:0 behenic acid","Spring/Summer","54",12,2.702,3.747,3.108,0.624,3.164,0.374,0.108,0.238
+"mg/100g","C22:0 behenic acid","Autumn/Winter","54",12,0,1.985,1.518,0.403,1.34,0.669,0.193,0.425
+"mg/100g","C22:5n3 docosapentaenoic acid (DPA)","Spring/Summer","13",12,0.905,1.536,1.206,0.07,1.205,0.16,0.046,0.102
+"mg/100g","C22:5n3 docosapentaenoic acid (DPA)","Autumn/Winter","13",12,0,7.682,0.84,2.15,1.887,2.687,0.776,1.707
+"mg/100g","C22:5n3 docosapentaenoic acid (DPA)","Spring/Summer","32",12,0.851,2.358,1.277,0.413,1.435,0.462,0.133,0.293
+"mg/100g","C22:5n3 docosapentaenoic acid (DPA)","Autumn/Winter","32",12,0,2.223,1.445,1.093,1.252,0.821,0.237,0.522
+"mg/100g","C22:5n3 docosapentaenoic acid (DPA)","Spring/Summer","54",12,1.155,5.511,3.567,1.938,3.636,1.307,0.377,0.83
+"mg/100g","C22:5n3 docosapentaenoic acid (DPA)","Autumn/Winter","54",12,0,2.374,0.61,1.86,0.93,1.004,0.29,0.638
+"mg/100g","C22:6n3 docosahexaenoic acid (DHA)","Spring/Summer","13",12,1.26,9.701,4.723,3.623,5.327,2.743,0.792,1.743
+"mg/100g","C22:6n3 docosahexaenoic acid (DHA)","Autumn/Winter","13",12,0,1.729,0,0.825,0.447,0.614,0.177,0.39
+"mg/100g","C22:6n3 docosahexaenoic acid (DHA)","Spring/Summer","32",12,6.264,25.793,10.922,7.99,12.411,6.193,1.788,3.935
+"mg/100g","C22:6n3 docosahexaenoic acid (DHA)","Autumn/Winter","32",12,1.27,10.558,5.943,3.709,5.624,2.925,0.844,1.858
+"mg/100g","C22:6n3 docosahexaenoic acid (DHA)","Spring/Summer","54",12,13.587,51.961,26.985,20.976,30.084,12.169,3.513,7.732
+"mg/100g","C22:6n3 docosahexaenoic acid (DHA)","Autumn/Winter","54",12,0,16.193,3.191,5.003,5.072,4.419,1.276,2.807
+"mg/100g","C24:0 lignoceric acid","Spring/Summer","13",12,3.367,7.033,4.788,1.489,5.039,1.069,0.309,0.679
+"mg/100g","C24:0 lignoceric acid","Autumn/Winter","13",12,0.754,3.421,1.291,0.855,1.628,0.799,0.231,0.508
+"mg/100g","C24:0 lignoceric acid","Spring/Summer","32",12,2.081,4.965,2.741,0.867,2.861,0.785,0.227,0.499
+"mg/100g","C24:0 lignoceric acid","Autumn/Winter","32",12,3.529,6.961,5.296,1.009,5.38,0.963,0.278,0.612
+"mg/100g","C24:0 lignoceric acid","Spring/Summer","54",12,1.237,3.439,1.941,0.958,2.126,0.764,0.221,0.485
+"mg/100g","C24:0 lignoceric acid","Autumn/Winter","54",12,2.91,8.094,5.343,1.876,5.326,1.393,0.402,0.885
+"mg/100g","∑ poly-unsaturated fatty acids 3 PUFA","Spring/Summer","13",12,79.683,255.987,111.227,59.888,126.137,51.535,14.877,32.744
+"mg/100g","∑ poly-unsaturated fatty acids 3 PUFA","Autumn/Winter","13",12,5.759,39.185,19.681,19.055,19.684,11.06,3.193,7.027
+"mg/100g","∑ poly-unsaturated fatty acids 3 PUFA","Spring/Summer","32",12,79.351,309.068,133.326,67.562,151.729,65.994,19.051,41.93
+"mg/100g","∑ poly-unsaturated fatty acids 3 PUFA","Autumn/Winter","32",12,60.092,263.665,195.045,79.142,171.832,67.354,19.443,42.795
+"mg/100g","∑ poly-unsaturated fatty acids 3 PUFA","Spring/Summer","54",12,127.989,249.383,171.329,59.424,180.934,42.917,12.389,27.268
+"mg/100g","∑ poly-unsaturated fatty acids 3 PUFA","Autumn/Winter","54",12,65.575,249.788,164.704,76.936,167.067,55.978,16.159,35.567
+"mg/100g","∑Mono-unsaturated fatty acids MUFA","Spring/Summer","13",12,108.233,172.037,133.42,40.149,138.771,23.648,6.827,15.025
+"mg/100g","∑Mono-unsaturated fatty acids MUFA","Autumn/Winter","13",12,12.011,71.404,30.256,22.732,32.479,18.398,5.311,11.69
+"mg/100g","∑Mono-unsaturated fatty acids MUFA","Spring/Summer","32",12,76.069,179.406,123.629,55.989,121.067,35.94,10.375,22.835
+"mg/100g","∑Mono-unsaturated fatty acids MUFA","Autumn/Winter","32",12,269.291,468.922,402.759,91.129,387.945,62.487,18.039,39.703
+"mg/100g","∑Mono-unsaturated fatty acids MUFA","Spring/Summer","54",12,65.276,111.389,85.012,14.462,85.39,13.028,3.761,8.278
+"mg/100g","∑Mono-unsaturated fatty acids MUFA","Autumn/Winter","54",12,279.644,620.616,371.694,121.561,414.436,93.132,26.885,59.173
+"mg/100g","∑Saturated fatty acids SFA","Spring/Summer","13",12,259.378,422.595,313.014,66.376,331.303,54.381,15.698,34.552
+"mg/100g","∑Saturated fatty acids SFA","Autumn/Winter","13",12,28.145,139.947,60.907,54.116,67.13,36.702,10.595,23.319
+"mg/100g","∑Saturated fatty acids SFA","Spring/Summer","32",12,173.495,395.763,285.692,109.778,274.713,73.614,21.251,46.772
+"mg/100g","∑Saturated fatty acids SFA","Autumn/Winter","32",12,405.701,708.341,585.31,145.382,581.767,99.618,28.757,63.294
+"mg/100g","∑Saturated fatty acids SFA","Spring/Summer","54",12,145.144,275.722,201.549,42.005,202.927,38.034,10.98,24.166
+"mg/100g","∑Saturated fatty acids SFA","Autumn/Winter","54",12,457.412,803.918,600.127,136.315,608.681,97.027,28.009,61.648
+"mg/100g","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Spring/Summer","13",12,50.229,179.52,73.465,43.94,84.061,37.93,10.95,24.1
+"mg/100g","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Autumn/Winter","13",12,2.637,23.169,11.385,9.48,11.017,6.397,1.847,4.064
+"mg/100g","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Spring/Summer","32",12,52.928,182.271,90.873,42.817,99.481,38.586,11.139,24.517
+"mg/100g","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Autumn/Winter","32",12,29.601,168.646,118.81,49.778,106.658,44.158,12.747,28.057
+"mg/100g","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Spring/Summer","54",12,95.581,173.562,131.401,48.603,131.332,27.1,7.823,17.219
+"mg/100g","∑omega 3 poly-unsaturated fatty acids n-3 PUFA","Autumn/Winter","54",12,38.322,178.077,112.824,59.504,114.487,42.251,12.197,26.845

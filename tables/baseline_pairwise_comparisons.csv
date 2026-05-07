@@ -1,0 +1,19 @@
+name,group1,group2,n1,n2,p
+Protein (% of DW),Baseline,Nil,26,15,0.03
+Protein (% of DW),Baseline,13,26,15,0.002
+Protein (% of DW),Baseline,54,26,15,0.923
+Lipid (% of DW),Baseline,Nil,27,14,0.048
+Lipid (% of DW),Baseline,13,27,15,0.036
+Lipid (% of DW),Baseline,54,27,14,0.042
+Water Content (%),Baseline,Nil,27,15,0.001
+Water Content (%),Baseline,13,27,15,0.005
+Water Content (%),Baseline,54,27,15,0.848
+TOM (% of DW),Baseline,Nil,27,15,0.643
+TOM (% of DW),Baseline,13,27,15,0.138
+TOM (% of DW),Baseline,54,27,15,0.337
+Carbohydrates (% of DW),Baseline,Nil,27,14,0.924
+Carbohydrates (% of DW),Baseline,13,27,15,0.266
+Carbohydrates (% of DW),Baseline,54,27,14,0.314
+Wet weight (g),Baseline,Nil,27,24,0.086
+Wet weight (g),Baseline,13,27,24,0.308
+Wet weight (g),Baseline,54,27,24,0
