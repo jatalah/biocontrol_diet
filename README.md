@@ -25,10 +25,11 @@ The study investigates temporal variation in the quantity and nutritional qualit
 
 The main objectives of this study were to:
 
-- Quantify seasonal changes in biofouling biomass and composition on marina pontoon structures.
-- Assess the nutritional quality of fouling assemblages available to *Lunella smaragda*.
-- Evaluate periods of potential food limitation for grazing biocontrol applications.
-- Inform stocking density recommendations and operational deployment strategies for marine biosecurity management.
+- Characterise the nutritional availability (i.e. quantity) and quality of biofilm and biofouling communities growing on marina pontoons across different stages of community development.
+- Assess seasonal variation in food resources over periods relevant to marine biocontrol applications, including warmer months with high fouling growth and cooler months with lower growth rates.
+- Evaluate signs of food limitation stress in *Lunella smaragda* under different food supply scenarios using survival, weight change, biochemical body composition, and malondialdehyde (MDA) levels.
+- Improve understanding of the relationship between the ecological requirements of *Lunella smaragda* and the temporal dynamics of marina fouling communities.
+- Inform optimal stocking densities and future operational deployment of *Lunella smaragda* as a marine biofouling biocontrol agent.
 
 ---
 
